@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "VÜCUT",
+      "word_en": "BODY",
+      "clues_tr": ["İnsan veya hayvanın fiziksel yapısı.", "Kaslar, kemikler ve organlardan oluşur.", "Sağlıklı yaşam için önemlidir."],
+      "clues_en": ["Physical structure of a human or animal.", "Consists of muscles, bones, and organs.", "Important for a healthy life."]
+    },
+    {
+      "word_tr": "TALAŞ",
+      "word_en": "SAWDUST",
+      "clues_tr": ["Ahşap keserken çıkan ince parçalar.", "Marangoz atölyelerinde bulunur.", "Yan ürün olarak değerlendirilir."],
+      "clues_en": ["Fine particles produced while cutting wood.", "Found in carpentry workshops.", "Utilized as a by-product."]
+    },
+    {
+      "word_tr": "GALAKSİ",
+      "word_en": "GALAXY",
+      "clues_tr": ["Yıldızlar, gaz ve toz bulutlarından oluşan büyük sistem.", "Samanyolu bunlardan biridir.", "Evrenin temel yapı taşlarındandır."],
+      "clues_en": ["Large system consisting of stars, gas, and dust clouds.", "Milky Way is one of them.", "Fundamental building blocks of the universe."]
+    },
+    {
+      "word_tr": "ANTARTİKA",
+      "word_en": "ANTARCTICA",
+      "clues_tr": ["Dünyanın en güneyindeki kıta.", "Buzla kaplıdır.", "Bilimsel araştırmalar için önemlidir."],
+      "clues_en": ["Southernmost continent of the world.", "Covered in ice.", "Important for scientific research."]
+    },
+    {
+      "word_tr": "HANNİBAL",
+      "word_en": "HANNIBAL",
+      "clues_tr": ["Antik Kartaca'nın ünlü generali.", "Roma'ya karşı savaşmıştır.", "Alpleri aşarak İtalya'ya saldırmıştır."],
+      "clues_en": ["Famous general of ancient Carthage.", "Fought against Rome.", "Attacked Italy by crossing the Alps."]
+    },
+    {
+      "word_tr": "POLAR",
+      "word_en": "POLAR",
+      "clues_tr": ["Kutuplarla ilgili.", "Soğuk ve buzlu iklim.", "Kutup ayıları ve penguenler burada yaşar."],
+      "clues_en": ["Related to the poles.", "Cold and icy climate.", "Polar bears and penguins live here."]
+    },
+    {
+      "word_tr": "KOLON",
+      "word_en": "COLUMN",
+      "clues_tr": ["Dikine duran destek yapısı.", "Mimari eserlerde kullanılır.", "Gazetelerde düzenli yazı."],
+      "clues_en": ["Vertical supporting structure.", "Used in architectural works.", "Regular article in newspapers."]
+    },
+    {
+      "word_tr": "TESLA",
+      "word_en": "TESLA",
+      "clues_tr": ["Elektrik ve manyetizma alanında önemli bir bilim insanı.", "Alternatif akımın babası olarak bilinir.", "Ünlü elektrik motorlarını icat etmiştir."],
+      "clues_en": ["Important scientist in electricity and magnetism.", "Known as the father of alternating current.", "Invented famous electric motors."]
+    },
+    {
+      "word_tr": "MÜHENDİS",
+      "word_en": "ENGINEER",
+      "clues_tr": ["Teknik bilgi ve becerilere sahip kişi.", "Projeler tasarlar ve uygular.", "Farklı alanlarda uzmanlaşabilir."],
+      "clues_en": ["Person with technical knowledge and skills.", "Designs and implements projects.", "Can specialize in different fields."]
+    },
+    {
+      "word_tr": "ALMANCA",
+      "word_en": "GERMAN",
+      "clues_tr": ["Almanya'da konuşulan dil.", "Hint-Avrupa dil ailesine aittir.", "Dünyada yaygın olarak öğrenilir."],
+      "clues_en": ["Language spoken in Germany.", "Belongs to the Indo-European language family.", "Widely learned around the world."]
+    },
+    {
+      "word_tr": "MAĞAZA",
+      "word_en": "STORE",
+      "clues_tr": ["Mal ve hizmetlerin satıldığı yer.", "Alışveriş merkezlerinde bulunur.", "Farklı ürün kategorilerine sahip olabilir."],
+      "clues_en": ["Place where goods and services are sold.", "Found in shopping centers.", "Can have different product categories."]
+    },
+    {
+      "word_tr": "VAŞAK",
+      "word_en": "LYNX",
+      "clues_tr": ["Büyük ve tüylü kulaklı yırtıcı kedi.", "Ormanlık alanlarda yaşar.", "Keskin görüş yeteneğine sahiptir."],
+      "clues_en": ["Large predatory cat with tufted ears.", "Lives in forested areas.", "Has keen eyesight."]
+    },
+    {
+      "word_tr": "JAPONYA",
+      "word_en": "JAPAN",
+      "clues_tr": ["Doğu Asya'da bir ada ülkesi.", "Teknoloji ve kültürü ile ünlüdür.", "Başkent Tokyo'dur."],
+      "clues_en": ["Island country in East Asia.", "Famous for its technology and culture.", "Capital is Tokyo."]
+    },
+    {
+      "word_tr": "PROTOTİP",
+      "word_en": "PROTOTYPE",
+      "clues_tr": ["Bir ürünün ilk örneği.", "Geliştirme aşamasında kullanılır.", "Deney ve testlerde kullanılır."],
+      "clues_en": ["First example of a product.", "Used in the development phase.", "Used in experiments and tests."]
+    },
+    {
+      "word_tr": "SARKAÇ",
+      "word_en": "PENDULUM",
+      "clues_tr": ["Salınım hareketi yapan ağırlık.", "Saatlerde zaman ölçmek için kullanılır.", "Dengeyi ve hareketi temsil eder."],
+      "clues_en": ["Weight that makes oscillating movements.", "Used to measure time in clocks.", "Represents balance and motion."]
+    }
+  ]
+}

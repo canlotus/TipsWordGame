@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "ROMA",
+      "word_en": "ROME",
+      "clues_tr": ["İtalya'nın başkenti.", "Kolezyum ve Vatikan ile ünlüdür.", "Tarihi ve kültürel zenginlikleri vardır."],
+      "clues_en": ["Capital of Italy.", "Famous for the Colosseum and Vatican.", "Has historical and cultural wealth."]
+    },
+    {
+      "word_tr": "GORİL",
+      "word_en": "GORILLA",
+      "clues_tr": ["Büyük ve güçlü primat.", "Afrika ormanlarında yaşar.", "İnsana benzeyen davranışları vardır."],
+      "clues_en": ["Large and powerful primate.", "Lives in African forests.", "Has human-like behaviors."]
+    },
+    {
+      "word_tr": "GAZETECİ",
+      "word_en": "JOURNALIST",
+      "clues_tr": ["Haber toplayan ve yazan kişi.", "Gazete, dergi veya televizyon için çalışır.", "Kamuoyunu bilgilendirir."],
+      "clues_en": ["Person who gathers and writes news.", "Works for newspapers, magazines, or television.", "Informs the public."]
+    },
+    {
+      "word_tr": "KİNCİ",
+      "word_en": "VENGEFUL",
+      "clues_tr": ["İntikam peşinde olan kişi.", "Kötülüğe karşı misilleme yapar.", "Düşmanca duygular taşır."],
+      "clues_en": ["Person seeking revenge.", "Retaliates against wrongdoings.", "Carries hostile feelings."]
+    },
+    {
+      "word_tr": "HAMBURGER",
+      "word_en": "HAMBURGER",
+      "clues_tr": ["Ekmek arasında köfte ve diğer malzemelerle yapılan yiyecek.", "Fast food kültürünün simgelerindendir.", "Patates kızartması ile servis edilir."],
+      "clues_en": ["Food made with a patty and other ingredients between buns.", "One of the symbols of fast food culture.", "Served with french fries."]
+    },
+    {
+      "word_tr": "BAGAJ",
+      "word_en": "LUGGAGE",
+      "clues_tr": ["Seyahat sırasında taşınan eşyalar.", "Bavul ve çanta gibi taşıma araçları.", "Havaalanında eşyaların verildiği şey."],
+      "clues_en": ["Items carried during travel.", "Transportation tools like suitcases and bags.", "Luggage drop-off area at the airport."]
+    },
+    {
+      "word_tr": "UZAYLI",
+      "word_en": "ALIEN",
+      "clues_tr": ["Dünya dışından gelen varlık.", "Bilim kurgu filmlerinde sıkça görülür.", "Yeşil tenli ve büyük gözlü olarak tasvir edilir."],
+      "clues_en": ["Being from outside the Earth.", "Frequently seen in science fiction movies.", "Depicted as green-skinned and big-eyed."]
+    },
+    {
+      "word_tr": "TESTİ",
+      "word_en": "PITCHER",
+      "clues_tr": ["Su veya sıvı taşımak için kullanılan kap.", "Genellikle toprak veya metalden yapılır.", "Ağız kısmı dar ve kulpludur."],
+      "clues_en": ["Container used to carry water or liquids.", "Usually made of clay or metal.", "Has a narrow mouth and a handle."]
+    },
+    {
+      "word_tr": "BOĞAZ",
+      "word_en": "THROAT",
+      "clues_tr": ["Yemek ve hava yollarının geçtiği organ.", "Yutkunma ve konuşma işlevi görür.", "Boğaz ağrısı sık görülen bir rahatsızlıktır."],
+      "clues_en": ["Organ through which food and air pass.", "Functions for swallowing and speaking.", "Sore throat is a common ailment."]
+    },
+    {
+      "word_tr": "VİRAL",
+      "word_en": "VIRAL",
+      "clues_tr": ["Hızla yayılan internet içeriği.", "Sosyal medyada popüler hale gelir.", "Kısa sürede milyonlarca kişiye ulaşır."],
+      "clues_en": ["Internet content that spreads rapidly.", "Becomes popular on social media.", "Reaches millions of people in a short time."]
+    },
+    {
+      "word_tr": "SARHOŞ",
+      "word_en": "DRUNK",
+      "clues_tr": ["Alkol tüketimi sonucu denge kaybı.", "Sarhoş kişiler dengesiz yürür.", "Kendine hakim olamama durumu."],
+      "clues_en": ["Loss of balance due to alcohol consumption.", "Drunk people walk unsteadily.", "State of losing self-control."]
+    },
+    {
+      "word_tr": "PİVOT",
+      "word_en": "PIVOT",
+      "clues_tr": ["Bir eksen etrafında dönen nesne.", "Basketbolda bir pozisyon.", "Dönme hareketi yapar."],
+      "clues_en": ["Object rotating around an axis.", "Keeping one foot stationary in basketball.", "Performs a rotational movement."]
+    },
+    {
+      "word_tr": "LABİRENT",
+      "word_en": "MAZE",
+      "clues_tr": ["Çıkışı bulmak için girilen karmaşık yol sistemi.", "Eğlenceli bir bulmaca türüdür.", "Mitolojide Minotaur'un yaşadığı yer."],
+      "clues_en": ["Complex pathway system to find the exit.", "A fun type of puzzle.", "Home of the Minotaur in mythology."]
+    },
+    {
+      "word_tr": "FOLYO",
+      "word_en": "FOIL",
+      "clues_tr": ["İnce metal tabaka.", "Gıda paketlemesinde kullanılır.", "Alüminyum folyo en yaygın olanıdır."],
+      "clues_en": ["Thin metal sheet.", "Used in food packaging.", "Aluminum foil is the most common."]
+    },
+    {
+      "word_tr": "TİRAN",
+      "word_en": "TYRANT",
+      "clues_tr": ["Zalim ve baskıcı lider.", "Diktatör olarak da bilinir.", "Halkına zulmeden yönetici."],
+      "clues_en": ["Cruel and oppressive leader.", "Also known as a dictator.", "Ruler who oppresses his people."]
+    }
+  ]
+}

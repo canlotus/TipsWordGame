@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "BALİNA",
+      "word_en": "WHALE",
+      "clues_tr": ["Denizde yaşayan devasa memeli.", "Dünyanın en büyük hayvanıdır.", "Uzun mesafeler göç eder."],
+      "clues_en": ["Huge marine mammal.", "Largest animal on earth.", "Migrates long distances."]
+    },
+    {
+      "word_tr": "AKROSTİŞ",
+      "word_en": "ACROSTIC",
+      "clues_tr": ["İlk harflerin bütünlüğünden oluşan şiir türü.", "Her satırın ilk harfi bir kelime oluşturur.", "Özel mesajlar içerir."],
+      "clues_en": ["Poem type formed from the first letters.", "First letter of each line forms a word.", "Contains special messages."]
+    },
+    {
+      "word_tr": "KURT",
+      "word_en": "WOLF",
+      "clues_tr": ["Vahşi ve yırtıcı köpek türü.", "Sürü halinde yaşar.", "Ay ile uluyan hayvan."],
+      "clues_en": ["Wild and predatory canine.", "Lives in packs.", "Howling animal associated with the moon."]
+    },
+    {
+      "word_tr": "LALE",
+      "word_en": "TULIP",
+      "clues_tr": ["Renkli ve zarif çiçek.", "Hollanda ile özdeşleşmiştir.", "Baharda açar."],
+      "clues_en": ["Colorful and elegant flower.", "Associated with the Netherlands.", "Blooms in spring."]
+    },
+    {
+      "word_tr": "BAMBU",
+      "word_en": "BAMBOO",
+      "clues_tr": ["Hızlı büyüyen bitki.", "Genellikle Asya'da yetişir.", "Pandaların ana besin kaynağıdır."],
+      "clues_en": ["Fast-growing plant.", "Usually grows in Asia.", "Main food source for pandas."]
+    },
+    {
+      "word_tr": "DİYABET",
+      "word_en": "DIABETES",
+      "clues_tr": ["Kandaki şeker düzeyinin yüksek olması durumu.", "İnsülin hormonu ile ilgilidir.", "Kronik bir sağlık sorunudur."],
+      "clues_en": ["Condition of high blood sugar levels.", "Related to the hormone insulin.", "A chronic health issue."]
+    },
+    {
+      "word_tr": "SÜPÜRGE",
+      "word_en": "BROOM",
+      "clues_tr": ["Yerleri temizlemek için kullanılan araç.", "Saplı ve kıllı yapısı vardır.", "Ev temizliğinde sıkça kullanılır."],
+      "clues_en": ["Tool used for cleaning floors.", "Has a handle and bristles.", "Frequently used in household cleaning."]
+    },
+    {
+      "word_tr": "EVEREST",
+      "word_en": "EVEREST",
+      "clues_tr": ["Dünyanın en yüksek dağı.", "Himalayalar'da bulunur.", "Dağcıların zirveye ulaşma hedefi."],
+      "clues_en": ["Highest mountain in the world.", "Located in the Himalayas.", "Mountaineers aim to reach its summit."]
+    },
+    {
+      "word_tr": "BAŞKAN",
+      "word_en": "PRESIDENT",
+      "clues_tr": ["Bir ülkenin veya organizasyonun lideri.", "Seçimle göreve gelir.", "En üst düzey yönetici."],
+      "clues_en": ["Leader of a country or organization.", "Comes to office by election.", "Highest level executive."]
+    },
+    {
+      "word_tr": "GÜVENLİK",
+      "word_en": "SECURITY",
+      "clues_tr": ["Tehlikelerden korunmayı sağlayan birim.", "Binalarda ve etkinliklerde bulunur.", "Kamu düzeni için önemlidir."],
+      "clues_en": ["State of being protected from dangers.", "Provided in buildings and events.", "Important for public order."]
+    },
+    {
+      "word_tr": "BAKIŞ",
+      "word_en": "GAZE",
+      "clues_tr": ["Uzun süreli ve dikkatli izlenme durumu.", "Gözlerle bir noktaya odaklanma.", "Birinin bir şeye gözleriyle izlemesi."],
+      "clues_en": ["Long and attentive look.", "Focusing on a point with the eyes.", "Thoughtful and deep look."]
+    },
+    {
+      "word_tr": "SÜPERNOVA",
+      "word_en": "SUPERNOVA",
+      "clues_tr": ["Patlayan yıldız olayı.", "Çok parlak bir ışık yayar.", "Evrenin önemli olaylarından biridir."],
+      "clues_en": ["Exploding star event.", "Emits a very bright light.", "One of the significant events in the universe."]
+    },
+    {
+      "word_tr": "BADMİNTON",
+      "word_en": "BADMINTON",
+      "clues_tr": ["Rakiplerin raketle oynadığı bir spor.", "Tüy top kullanılır.", "Kapalı veya açık alanlarda oynanır."],
+      "clues_en": ["Sport played by opponents with rackets.", "Uses a shuttlecock.", "Played indoors or outdoors."]
+    },
+    {
+      "word_tr": "YÜZDE",
+      "word_en": "PERCENT",
+      "clues_tr": ["Bir bütünün yüz parçadan biri.", "Matematiksel bir oran.", "Finans ve istatistikte sıkça kullanılır."],
+      "clues_en": ["One part of a hundred of a whole.", "A mathematical ratio.", "Frequently used in finance and statistics."]
+    },
+    {
+      "word_tr": "VADİ",
+      "word_en": "VALLEY",
+      "clues_tr": ["Dağlar arasında kalan çukur alan.", "Genellikle nehir veya akarsu geçer.", "Verimli tarım alanları içerir."],
+      "clues_en": ["Hollow area between mountains.", "Usually has a river or stream.", "Contains fertile agricultural lands."]
+    }
+  ]
+}

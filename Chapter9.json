@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "İSPANYOLCA",
+      "word_en": "SPANISH",
+      "clues_tr": ["İspanya ve Latin Amerika'da konuşulan dil.", "Dünyanın en yaygın dillerinden biridir.", "Latin alfabesi kullanılır."],
+      "clues_en": ["Language spoken in Spain and Latin America.", "One of the most widespread languages in the world.", "Uses the Latin alphabet."]
+    },
+    {
+      "word_tr": "LEVHA",
+      "word_en": "PLATE",
+      "clues_tr": ["Bilgi veya uyarı içeren tabela.", "Genellikle metal veya plastikten yapılır.", "Yollarda ve binalarda bulunur."],
+      "clues_en": ["Sign containing information or warning.", "Usually made of metal or plastic.", "Found on roads and buildings."]
+    },
+    {
+      "word_tr": "UYRUK",
+      "word_en": "NATIONALITY",
+      "clues_tr": ["Bir ülkeye ait olma durumu.", "Pasaport veya kimlikte belirtilir.", "Vatandaşlık anlamına gelir."],
+      "clues_en": ["Belonging to a country.", "Indicated on a passport or ID.", "Means citizenship."]
+    },
+    {
+      "word_tr": "CADI",
+      "word_en": "WITCH",
+      "clues_tr": ["Büyü ve sihir yapan kadın.", "Masal ve efsanelerde sıkça yer alır.", "Uçan süpürge ile tanınır."],
+      "clues_en": ["Woman who does magic and sorcery.", "Frequently appears in fairy tales and legends.", "Known for flying on a broom."]
+    },
+    {
+      "word_tr": "KRİKET",
+      "word_en": "CRICKET",
+      "clues_tr": ["Beyzbola benzeyen bir spor dalı.", "İki takım arasında oynanır.", "Top ve sopa kullanılır."],
+      "clues_en": ["Sport similar to baseball.", "Played between two teams.", "Uses a ball and bat."]
+    },
+    {
+      "word_tr": "SUŞİ",
+      "word_en": "SUSHI",
+      "clues_tr": ["Japon mutfağına ait bir yemek.", "Genellikle çiğ balık ve pirinçle yapılır.", "Rulo şeklinde servis edilir."],
+      "clues_en": ["Dish from Japanese cuisine.", "Usually made with raw fish and rice.", "Served in rolls."]
+    },
+    {
+      "word_tr": "SERAMİK",
+      "word_en": "CERAMIC",
+      "clues_tr": ["Kil ve mineral karışımından yapılan malzeme.", "Çanak çömlek yapımında kullanılır.", "Yüksek sıcaklıkta fırınlanır."],
+      "clues_en": ["Material made from a mixture of clay and minerals.", "Used in pottery making.", "Fired at high temperatures."]
+    },
+    {
+      "word_tr": "KAPLAN",
+      "word_en": "TIGER",
+      "clues_tr": ["Büyük ve güçlü yırtıcı kedi.", "Turuncu ve siyah çizgili postu vardır.", "Asya ormanlarında yaşar."],
+      "clues_en": ["Large and powerful predatory cat.", "Has an orange and black striped coat.", "Lives in Asian forests."]
+    },
+    {
+      "word_tr": "BROKER",
+      "word_en": "BROKER",
+      "clues_tr": ["Alım satım işlemlerinde aracılık yapan kişi.", "Finansal piyasalarda çalışır.", "Komisyon karşılığı hizmet verir."],
+      "clues_en": ["Person who intermediates buying and selling transactions.", "Works in financial markets.", "Provides services for a commission."]
+    },
+    {
+      "word_tr": "AMETAL",
+      "word_en": "NONMETAL",
+      "clues_tr": ["Metal olmayan element grubu.", "Genellikle gaz veya katı halde bulunur.", "Elektrik ve ısı iletmez."],
+      "clues_en": ["Group of elements that are not metals.", "Usually found in gaseous or solid state.", "Does not conduct electricity or heat."]
+    },
+    {
+      "word_tr": "GOBLİN",
+      "word_en": "GOBLIN",
+      "clues_tr": ["Masal ve efsanelerde geçen küçük yaratık.", "Çirkin ve kötü huylu olarak tanımlanır.", "Genellikle mağaralarda yaşar."],
+      "clues_en": ["Small creature in fairy tales and legends.", "Described as ugly and bad-tempered.", "Usually lives in caves."]
+    },
+    {
+      "word_tr": "BORU",
+      "word_en": "PIPE",
+      "clues_tr": ["Sıvı veya gaz taşımak için kullanılan uzun ve içi boş yapı.", "Metal, plastik veya beton olabilir.", "Tesisat ve inşaat sektöründe kullanılır."],
+      "clues_en": ["Long and hollow structure used to transport liquids or gases.", "Can be metal, plastic, or concrete.", "Used in plumbing and construction."]
+    },
+    {
+      "word_tr": "ŞEMSİYE",
+      "word_en": "UMBRELLA",
+      "clues_tr": ["Yağmurdan veya güneşten korunmak için kullanılan alet.", "Katlanabilir ve taşınabilir.", "Çeşitli renk ve desenlerde bulunur."],
+      "clues_en": ["Tool used to protect from rain or sun.", "Foldable and portable.", "Available in various colors and patterns."]
+    },
+    {
+      "word_tr": "SALTO",
+      "word_en": "SOMERSAULT",
+      "clues_tr": ["Havada tam bir dönüş yapma hareketi.", "Jimnastikte sıkça yapılır.", "Çeşitli akrobatik gösterilerde yer alır."],
+      "clues_en": ["Movement of a complete turn in the air.", "Frequently done in gymnastics.", "Appears in various acrobatic shows."]
+    },
+    {
+      "word_tr": "TALEP",
+      "word_en": "DEMAND",
+      "clues_tr": ["Bir mal veya hizmete olan istek.", "Ekonomide önemli bir kavramdır.", "Arzın karşıtı olarak değerlendirilir."],
+      "clues_en": ["Desire for a good or service.", "An important concept in economics.", "Considered as the opposite of supply."]
+    }
+  ]
+}

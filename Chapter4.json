@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "MONOTON",
+      "word_en": "MONOTONOUS",
+      "clues_tr": ["Tekdüze ve sıkıcı yaşam biçimi.", "Değişiklik veya heyecan olmayan.", "Sürekli aynı tempoda."],
+      "clues_en": ["Single-toned and boring.", "No variation or excitement.", "Constantly at the same pace."]
+    },
+    {
+      "word_tr": "SERVET",
+      "word_en": "WEALTH",
+      "clues_tr": ["Büyük miktarda para veya değerli eşyalar bütünü.", "Maddi refah ve zenginlik.", "Finansal başarı göstergesi."],
+      "clues_en": ["Large amount of money or valuable items.", "Material prosperity and riches.", "Indicator of financial success."]
+    },
+    {
+      "word_tr": "SALSA",
+      "word_en": "SALSA",
+      "clues_tr": ["Latin Amerika kökenli bir dans.", "Ritmik ve enerjik hareketleri vardır.", "Çiftler halinde yapılır."],
+      "clues_en": ["A dance originating from Latin America.", "Has rhythmic and energetic movements.", "Performed in pairs."]
+    },
+    {
+      "word_tr": "GEVREK",
+      "word_en": "CRISPY",
+      "clues_tr": ["Kıtır kıtır yapıya sahip yiyecek.", "Fırınlanmış veya kızartılmış olabilir.", "Çerez veya atıştırmalık olarak tüketilir."],
+      "clues_en": ["Food with a crunchy texture.", "Can be baked or fried.", "Consumed as snacks."]
+    },
+    {
+      "word_tr": "KONVOY",
+      "word_en": "CONVOY",
+      "clues_tr": ["Bir arada seyahat eden araçlar grubu.", "Güvenlik veya organizasyon amacıyla yapılır.", "Genellikle askeri veya resmi törenlerde görülür."],
+      "clues_en": ["Group of vehicles traveling together.", "Done for security or organization.", "Usually seen in military or official ceremonies."]
+    },
+    {
+      "word_tr": "FABL",
+      "word_en": "FABLE",
+      "clues_tr": ["Hayvanların konuştuğu hikayeler.", "Ders verme amacı taşır.", "Masal türüdür."],
+      "clues_en": ["Stories where animals talk.", "Intended to teach a lesson.", "A type of fairy tale."]
+    },
+    {
+      "word_tr": "MEŞE",
+      "word_en": "OAK",
+      "clues_tr": ["Uzun ömürlü ve sağlam ağaç.", "Palamutları vardır.", "Mobilya yapımında kullanılır."],
+      "clues_en": ["Long-lived and sturdy tree.", "Has acorns.", "Used in furniture making."]
+    },
+    {
+      "word_tr": "KLİMA",
+      "word_en": "AIR CONDITIONER",
+      "clues_tr": ["Havayı soğutmak veya ısıtmak için kullanılır.", "Evlerde ve iş yerlerinde bulunur.", "Elektrikle çalışır."],
+      "clues_en": ["Used to cool or heat the air.", "Found in homes and workplaces.", "Operates on electricity."]
+    },
+    {
+      "word_tr": "SFENKS",
+      "word_en": "SPHINX",
+      "clues_tr": ["Antik Mısır'da aslan gövdeli ve insan başlı heykel.", "Gize Piramitleri'nin yakınında bulunur.", "Bilmece sormasıyla ünlüdür."],
+      "clues_en": ["Statue with a lion's body and a human head in ancient Egypt.", "Located near the Pyramids of Giza.", "Famous for asking riddles."]
+    },
+    {
+      "word_tr": "MECAZ",
+      "word_en": "METAPHOR",
+      "clues_tr": ["Bir şeyin başka bir şeyle anlatılması.", "Edebiyatta sıkça kullanılır.", "Anlamı güçlendirir."],
+      "clues_en": ["Describing something with another thing.", "Frequently used in literature.", "Enhances meaning."]
+    },
+    {
+      "word_tr": "SOYUT",
+      "word_en": "ABSTRACT",
+      "clues_tr": ["Somut olmayan ve düşünsel olan.", "Sanatta ve edebiyatta kullanılır.", "Görsel değil, kavramsaldır."],
+      "clues_en": ["Non-concrete and conceptual.", "Used in art and literature.", "Conceptual rather than visual."]
+    },
+    {
+      "word_tr": "PAKET",
+      "word_en": "PACKAGE",
+      "clues_tr": ["İçinde bir şeyler bulunan kutu veya torba.", "Kargo ile gönderilir.", "Hediye olarak verilebilir."],
+      "clues_en": ["Box or bag containing something.", "Sent by cargo.", "Can be given as a gift."]
+    },
+    {
+      "word_tr": "BAGET",
+      "word_en": "BAGUETTE",
+      "clues_tr": ["Uzun ve ince Fransız ekmeği.", "Sandviç yapmak için kullanılır.", "Çıtır kabukludur."],
+      "clues_en": ["Long and thin French bread.", "Used to make sandwiches.", "Has a crispy crust."]
+    },
+    {
+      "word_tr": "YAPIŞKAN",
+      "word_en": "GLUE",
+      "clues_tr": ["İki yüzeyi birbirine tutturan madde.", "Kağıt, tahta ve plastik için kullanılır.", "Tüplerde veya şişelerde satılır."],
+      "clues_en": ["Substance that sticks two surfaces together.", "Used for paper, wood, and plastic.", "Sold in tubes or bottles."]
+    },
+    {
+      "word_tr": "VARSAYIM",
+      "word_en": "ASSUMPTION",
+      "clues_tr": ["Gerçek kabul edilen öncül.", "Günlük yaşamda kullanılan farazinin karşılığı.", "Doğruluğu kesin olmayan tahmin."],
+      "clues_en": ["Premise accepted as true.", "Hypothesis with uncertain accuracy.", "Used in scientific research."]
+    }
+  ]
+}

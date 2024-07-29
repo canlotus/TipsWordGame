@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "BASKÜL",
+      "word_en": "SCALE",
+      "clues_tr": ["Ağırlık ölçme aleti.", "Banyo veya mutfakta kullanılır.", "Kilo ölçmek için kullanılır."],
+      "clues_en": ["Weight measuring device.", "Used in the bathroom or kitchen.", "Used to measure weight."]
+    },
+    {
+      "word_tr": "ARMAĞAN",
+      "word_en": "GIFT",
+      "clues_tr": ["Özel günlerde verilen hediye.", "Kutlama amacıyla sunulur.", "Sevgi ve takdir ifadesidir."],
+      "clues_en": ["Present given on special occasions.", "Offered as a celebration.", "Expression of love and appreciation."]
+    },
+    {
+      "word_tr": "HALÜSİNASYON",
+      "word_en": "HALLUCINATION",
+      "clues_tr": ["Gerçek olmayan algılar.", "Genellikle zihinsel bozukluklarda görülür.", "Görsel veya işitsel olabilir."],
+      "clues_en": ["Perceptions that are not real.", "Often seen in mental disorders.", "Can be visual or auditory."]
+    },
+    {
+      "word_tr": "SİNGAPUR",
+      "word_en": "SINGAPORE",
+      "clues_tr": ["Güneydoğu Asya'da bir şehir devleti.", "Modern ve kozmopolit bir yer.", "Ticaret ve finans merkezi."],
+      "clues_en": ["City-state in Southeast Asia.", "Modern and cosmopolitan place.", "Trade and financial hub."]
+    },
+    {
+      "word_tr": "ANTİKA",
+      "word_en": "ANTIQUE",
+      "clues_tr": ["Eski ve değerli eşya.", "Tarihî değeri olan objeler.", "Koleksiyoncular tarafından aranır."],
+      "clues_en": ["Old and valuable item.", "Objects with historical value.", "Sought after by collectors."]
+    },
+    {
+      "word_tr": "SATRANÇ",
+      "word_en": "CHESS",
+      "clues_tr": ["İki kişilik strateji oyunu.", "Tahta üzerinde oynanır.", "Şah mat yapma amacı taşır."],
+      "clues_en": ["Two-player strategy game.", "Played on a board.", "Aims to checkmate the king."]
+    },
+    {
+      "word_tr": "PROSPEKTÜS",
+      "word_en": "LEAFLET",
+      "clues_tr": ["İlaçların bilgi kağıdı.", "Kullanım talimatlarını içerir.", "İlaç kutusunun içinde bulunur."],
+      "clues_en": ["Information paper of medicines.", "Contains usage instructions.", "Found inside the medicine box."]
+    },
+    {
+      "word_tr": "PARAŞÜT",
+      "word_en": "PARACHUTE",
+      "clues_tr": ["Hava aracından atlayanları yavaşlatan alet.", "Yüksekten atlama sırasında kullanılır.", "Kumaştan yapılmış geniş bir kanat."],
+      "clues_en": ["Device that slows down those jumping from an aircraft.", "Used during high jumps.", "A wide wing made of fabric."]
+    },
+    {
+      "word_tr": "DELTA",
+      "word_en": "DELTA",
+      "clues_tr": ["Nehirlerin denize döküldüğü yer.", "Verimli alüvyon toprakları içerir.", "Büyük üçgen şekillidir."],
+      "clues_en": ["Place where rivers flow into the sea.", "Contains fertile alluvial soils.", "Large triangular shape."]
+    },
+    {
+      "word_tr": "BONKÖR",
+      "word_en": "GENEROUS",
+      "clues_tr": ["Başkalarına cömertçe veren kişi.", "Paylaşmayı seven.", "Eli açık anlamına gelir."],
+      "clues_en": ["Person who gives generously to others.", "Likes to share.", "Means open-handed."]
+    },
+    {
+      "word_tr": "AVUKAT",
+      "word_en": "LAWYER",
+      "clues_tr": ["Hukuki konularda danışmanlık yapan kişi.", "Mahkemede müvekkilini savunur.", "Hukuk fakültesi mezunu."],
+      "clues_en": ["Person who provides legal advice.", "Defends the client in court.", "Law school graduate."]
+    },
+    {
+      "word_tr": "HENTBOL",
+      "word_en": "HANDBALL",
+      "clues_tr": ["El ile oynanan takım sporu.", "Topu rakip kaleye atma amacı taşır.", "Kapalı veya açık alanlarda oynanır."],
+      "clues_en": ["Team sport played by hand.", "Aims to throw the ball into the opponent's goal.", "Played indoors or outdoors."]
+    },
+    {
+      "word_tr": "PRATİK",
+      "word_en": "PRACTICAL",
+      "clues_tr": ["Kolay ve hızlı uygulanabilir.", "Kullanışlı ve yararlı.", "Teorik olmayan, gerçek dünyada işe yarar."],
+      "clues_en": ["Easy and quick to apply.", "Useful and functional.", "Not theoretical, useful in the real world."]
+    },
+    {
+      "word_tr": "MADDE",
+      "word_en": "SUBSTANCE",
+      "clues_tr": ["Fiziksel varlığı olan şey.", "Katı, sıvı veya gaz olabilir.", "Kimyasal ve fiziksel özellikleri vardır."],
+      "clues_en": ["Thing with physical existence.", "Can be solid, liquid, or gas.", "Has chemical and physical properties."]
+    },
+    {
+      "word_tr": "MEKSİKA",
+      "word_en": "MEXICO",
+      "clues_tr": ["Kuzey Amerika'da bir ülke.", "Tacos ve sombrero ile ünlüdür.", "Güney sınırında ABD ile komşudur."],
+      "clues_en": ["Country in North America.", "Famous for tacos and sombrero.", "Neighbors the USA to the north."]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "TAPİR",
+      "word_en": "TAPIR",
+      "clues_tr": ["Büyük, domuz benzeri bir memeli.", "Uzun ve esnek bir buruna sahiptir.", "Ormanlarda ve su kenarlarında yaşar."],
+      "clues_en": ["Large, pig-like mammal.", "Lives in forests and near water.", "Has a long and flexible snout."]
+    },
+    {
+      "word_tr": "KANADA",
+      "word_en": "CANADA",
+      "clues_tr": ["Kuzey Amerika'da bir ülke.", "Bayrağında akçaağaç yaprağı bulunur.", "Resmi dilleri İngilizce ve Fransızca'dır."],
+      "clues_en": ["A country in North America.", "Has a maple leaf on its flag.", "Official languages are English and French."]
+    },
+    {
+      "word_tr": "DÜZLEM",
+      "word_en": "PLANE",
+      "clues_tr": ["Matematikte iki boyutlu yüzey.", "Geometri derslerinde sıkça kullanılır.", "Sonsuz genişliğe sahiptir."],
+      "clues_en": ["Two-dimensional surface in mathematics.", "Often used in geometry classes.", "Has infinite width."]
+    },
+    {
+      "word_tr": "DEFİNE",
+      "word_en": "TREASURE",
+      "clues_tr": ["Gömülü veya saklı değerli eşyalar.", "Hazine haritası ile bulunabilir.", "Pirates of the Caribbean filminde işlenmiştir."],
+      "clues_en": ["Buried or hidden valuable items.", "Can be found with a treasure map.", "Featured in Pirates of the Caribbean."]
+    },
+    {
+      "word_tr": "VERESİYE",
+      "word_en": "CREDIT",
+      "clues_tr": ["Ürün veya hizmetin borçla alınması.", "Sonradan ödeme yapılır.", "Mağazalar ve bankalar tarafından sunulur."],
+      "clues_en": ["Purchase of goods or services on debt.", "Payment is made later.", "Offered by stores and banks."]
+    },
+    {
+      "word_tr": "SHAKESPEARE",
+      "word_en": "SHAKESPEARE",
+      "clues_tr": ["İngiliz oyun yazarı ve şair.", "Romeo ve Juliet'in yazarı.", "Edebi dünyada büyük etkisi vardır."],
+      "clues_en": ["English playwright and poet.", "Author of Romeo and Juliet.", "Has a significant impact on literature."]
+    },
+    {
+      "word_tr": "MONOTON",
+      "word_en": "MONOTONOUS",
+      "clues_tr": ["Tekdüze ve sıkıcı.", "Değişiklik veya heyecan yok.", "Sürekli aynı tempoda."],
+      "clues_en": ["Single-toned and boring.", "No variation or excitement.", "Constantly at the same pace."]
+    },
+    {
+      "word_tr": "BAŞAK",
+      "word_en": "VIRGO",
+      "clues_tr": ["Zodyak burçlarından biri.", "Ağustos ve Eylül aylarını kapsar.", "Dikkatli ve analitik kişilerle ilişkilendirilir."],
+      "clues_en": ["One of the zodiac signs.", "Covers August and September.", "Associated with careful and analytical people."]
+    },
+    {
+      "word_tr": "SERVET",
+      "word_en": "WEALTH",
+      "clues_tr": ["Büyük miktarda para veya değerli eşyalar.", "Maddi refah ve zenginlik.", "Finansal başarı göstergesi."],
+      "clues_en": ["Large amount of money or valuable items.", "Material prosperity and riches.", "Indicator of financial success."]
+    },
+    {
+      "word_tr": "DÜDÜK",
+      "word_en": "WHISTLE",
+      "clues_tr": ["Ses çıkarmak için üflenen alet.", "Hakemler ve antrenörler kullanır.", "Dikkat çekmek için kullanılır."],
+      "clues_en": ["Instrument blown to make a sound.", "Used by referees and coaches.", "Used to attract attention."]
+    },
+    {
+      "word_tr": "MAMUT",
+      "word_en": "MAMMOTH",
+      "clues_tr": ["Buz Devri'nde yaşamış büyük tüylü hayvan.", "Uzun kıvrık dişleri vardır.", "Filin soyu tükenmiş akrabası."],
+      "clues_en": ["Large woolly animal from the Ice Age.", "Has long curved tusks.", "Extinct relative of the elephant."]
+    },
+    {
+      "word_tr": "TABURE",
+      "word_en": "STOOL",
+      "clues_tr": ["Yüksek ve sırt dayanağı olmayan oturma yeri.", "Barlarda ve mutfaklarda bulunur.", "Ayak koyma yeri olabilir."],
+      "clues_en": ["High seating without a backrest.", "Found in bars and kitchens.", "May have a footrest."]
+    },
+    {
+      "word_tr": "GÜNLÜK",
+      "word_en": "DIARY",
+      "clues_tr": ["Günlük olayların ve düşüncelerin yazıldığı defter.", "Kişisel ve özel olabilir.", "Günlük tutmak olarak da bilinir."],
+      "clues_en": ["Notebook for daily events and thoughts.", "Can be personal and private.", "Also known as journaling."]
+    },
+    {
+      "word_tr": "HASIR",
+      "word_en": "WICKER",
+      "clues_tr": ["Örgü şeklinde yapılan doğal malzeme.", "Sepet ve mobilya yapımında kullanılır.", "Esnek ve dayanıklıdır."],
+      "clues_en": ["Natural material woven into shapes.", "Used in basket and furniture making.", "Flexible and durable."]
+    },
+    {
+      "word_tr": "BUMERANG",
+      "word_en": "BOOMERANG",
+      "clues_tr": ["Fırlatıldıktan sonra geri dönen alet.", "Avustralya kökenlidir.", "Genellikle ahşaptan yapılır."],
+      "clues_en": ["Tool that returns when thrown.", "Originates from Australia.", "Usually made of wood."]
+    }
+  ]
+}

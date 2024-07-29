@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "YELLOWSTONE",
+      "word_en": "YELLOWSTONE",
+      "clues_tr": ["ABD'de bir milli park.", "Jeotermal özellikleri ile ünlüdür.", "Dünyanın ilk milli parkıdır."],
+      "clues_en": ["National park in the USA.", "Famous for its geothermal features.", "The world's first national park."]
+    },
+    {
+      "word_tr": "TOTAL",
+      "word_en": "TOTAL",
+      "clues_tr": ["Tamamı, bütünü.", "Hesaplamaların sonucu.", "Her şeyin toplamı."],
+      "clues_en": ["All, the whole.", "Result of calculations.", "Sum of everything."]
+    },
+    {
+      "word_tr": "SEZAR",
+      "word_en": "CAESAR",
+      "clues_tr": ["Antik Roma'nın ünlü lideri.", "Julius Caesar olarak bilinir.", "Roma İmparatorluğu'nun önemli figürlerinden biridir."],
+      "clues_en": ["Famous leader of ancient Rome.", "Known as Julius Caesar.", "One of the key figures of the Roman Empire."]
+    },
+    {
+      "word_tr": "BÜYÜ",
+      "word_en": "MAGIC",
+      "clues_tr": ["Doğaüstü güçlerle yapılan eylem.", "Sihirbazlar tarafından yapılır.", "Halk arasında mistik güç olarak bilinir."],
+      "clues_en": ["Action performed with supernatural powers.", "Performed by magicians.", "Known as mystical power among people."]
+    },
+    {
+      "word_tr": "MOZAİK",
+      "word_en": "MOSAIC",
+      "clues_tr": ["Küçük renkli taşların birleştirilmesiyle oluşur.", "Sanat ve dekorasyon amacıyla yapılır.", "Antik Roma'da popülerdi."],
+      "clues_en": ["Made of small colored stones.", "Created for art and decoration.", "Popular in ancient Rome."]
+    },
+    {
+      "word_tr": "FINDIK",
+      "word_en": "HAZELNUT",
+      "clues_tr": ["Kabuklu ve küçük kuru yemiş.", "Çikolata yapımında kullanılır.", "Karadeniz bölgesinde yetişir."],
+      "clues_en": ["Small shelled nut.", "Used in chocolate making.", "Grows in the Black Sea region."]
+    },
+    {
+      "word_tr": "HAYTA",
+      "word_en": "TRUANT",
+      "clues_tr": ["Okuldan kaçan öğrenci.", "Sorumluluklarını yerine getirmeyen.", "Derslere katılmayan."],
+      "clues_en": ["Student who skips school.", "Not fulfilling responsibilities.", "Not attending classes."]
+    },
+    {
+      "word_tr": "CADDE",
+      "word_en": "AVENUE",
+      "clues_tr": ["Geniş ve önemli yol.", "Şehir merkezlerinde bulunur.", "Trafik yoğunluğunun fazla olduğu yerlerdir."],
+      "clues_en": ["Wide and important road.", "Located in city centers.", "Places with high traffic density."]
+    },
+    {
+      "word_tr": "KOLAJ",
+      "word_en": "COLLAGE",
+      "clues_tr": ["Farklı malzemelerin bir araya getirilmesiyle yapılan sanat eseri.", "Gazete ve dergi kesikleri kullanılır.", "Yaratıcılığı teşvik eder."],
+      "clues_en": ["Artwork made by combining different materials.", "Uses newspaper and magazine cutouts.", "Encourages creativity."]
+    },
+    {
+      "word_tr": "TAKIMYILDIZ",
+      "word_en": "CONSTELLATION",
+      "clues_tr": ["Gökyüzündeki yıldız grubu.", "Mitolojik hikayelerle ilişkilendirilir.", "Astronomide kullanılır."],
+      "clues_en": ["Group of stars in the sky.", "Associated with mythological stories.", "Used in astronomy."]
+    },
+    {
+      "word_tr": "ATLETİZM",
+      "word_en": "ATHLETICS",
+      "clues_tr": ["Koşu, atlama ve atma sporlarını içerir.", "Olimpiyat oyunlarının bir parçasıdır.", "Fiziksel güç ve dayanıklılık gerektirir."],
+      "clues_en": ["Includes running, jumping, and throwing sports.", "Part of the Olympic Games.", "Requires physical strength and endurance."]
+    },
+    {
+      "word_tr": "KALYON",
+      "word_en": "GALLEON",
+      "clues_tr": ["Büyük ve savaşçı yelkenli gemi.", "Tarihte korsanlar tarafından kullanılmıştır.", "Çok sayıda top taşır."],
+      "clues_en": ["Large and warlike sailing ship.", "Used by pirates in history.", "Carries many cannons."]
+    },
+    {
+      "word_tr": "BREZİLYA",
+      "word_en": "BRAZIL",
+      "clues_tr": ["Güney Amerika'da bir ülke.", "Amazon ormanlarına ev sahipliği yapar.", "Rio de Janeiro karnavalı ile ünlüdür."],
+      "clues_en": ["Country in South America.", "Home to the Amazon rainforest.", "Famous for the Rio de Janeiro carnival."]
+    },
+    {
+      "word_tr": "RAHİM",
+      "word_en": "UTERUS",
+      "clues_tr": ["Kadın üreme organı.", "Bebek burada gelişir.", "Gebelik sürecinde önemli rol oynar."],
+      "clues_en": ["Female reproductive organ.", "Baby develops here.", "Plays an important role during pregnancy."]
+    },
+    {
+      "word_tr": "MATBAA",
+      "word_en": "PRINTING PRESS",
+      "clues_tr": ["Kitap ve gazete basımında kullanılan makine.", "Gutenberg tarafından icat edilmiştir.", "Bilgi yayılımını hızlandırmıştır."],
+      "clues_en": ["Machine used in printing books and newspapers.", "Invented by Gutenberg.", "Accelerated the spread of information."]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "VEREM",
+      "word_en": "TUBERCULOSIS",
+      "clues_tr": ["Akciğerleri etkileyen bulaşıcı hastalık.", "Öksürük ve kilo kaybı belirtileri.", "Tedavi edilmezse ölümcül olabilir."],
+      "clues_en": ["Contagious disease affecting the lungs.", "Symptoms include cough and weight loss.", "Can be fatal if not treated."]
+    },
+    {
+      "word_tr": "KRATER",
+      "word_en": "CRATER",
+      "clues_tr": ["Volkanik patlama veya meteor çarpması sonucu oluşan çukur.", "Ay yüzeyinde bolca bulunur.", "Yer bilimlerinde incelenir."],
+      "clues_en": ["Pit formed by volcanic eruption or meteor impact.", "Found abundantly on the moon's surface.", "Studied in earth sciences."]
+    },
+    {
+      "word_tr": "SALON",
+      "word_en": "LIVINGROOM",
+      "clues_tr": ["Evde oturma alanı.", "Kanepe ve televizyon bulunur.", "Aile ve misafirler için kullanılır."],
+      "clues_en": ["Seating area in a house.", "Has a sofa and television.", "Used for family and guests."]
+    },
+    {
+      "word_tr": "NAFAKA",
+      "word_en": "ALIMONY",
+      "clues_tr": ["Boşanma sonrası ödenen maddi destek.", "Mahkeme kararıyla belirlenir.", "Eşlerden birine verilir."],
+      "clues_en": ["Financial support paid after divorce.", "Determined by court decision.", "Given to one of the spouses."]
+    },
+    {
+      "word_tr": "ANTİFRİZ",
+      "word_en": "ANTIFREEZE",
+      "clues_tr": ["Araçların motorunda donmayı önleyen sıvı.", "Kış aylarında kullanılır.", "Radyatör suyuna eklenir."],
+      "clues_en": ["Liquid preventing freezing in vehicle engines.", "Used in winter months.", "Added to radiator water."]
+    },
+    {
+      "word_tr": "NÖTRON",
+      "word_en": "NEUTRON",
+      "clues_tr": ["Atom çekirdeğinde bulunan yüksüz parçacık.", "Protonlarla birlikte çekirdeği oluşturur.", "Fizik ve kimya bilimlerinde incelenir."],
+      "clues_en": ["Neutral particle found in the atomic nucleus.", "Forms the nucleus together with protons.", "Studied in physics and chemistry."]
+    },
+    {
+      "word_tr": "PAPİRÜS",
+      "word_en": "PAPYRUS",
+      "clues_tr": ["Antik Mısır'da yazı malzemesi olarak kullanılan bitki.", "Yazılar ve resimler üzerine işlenir.", "Nil Nehri kıyılarında yetişir."],
+      "clues_en": ["Plant used as writing material in ancient Egypt.", "Written and illustrated upon.", "Grows along the Nile River."]
+    },
+    {
+      "word_tr": "RAFTİNG",
+      "word_en": "RAFTING",
+      "clues_tr": ["Akarsuda yapılan heyecan verici spor.", "Şişme botlar kullanılır.", "Takım halinde yapılır."],
+      "clues_en": ["Exciting sport done in rivers.", "Uses inflatable boats.", "Performed in teams."]
+    },
+    {
+      "word_tr": "MİNYATÜR",
+      "word_en": "MINIATURE",
+      "clues_tr": ["Küçük boyutlarda yapılan sanat eseri.", "Ayrıntılı ve ince işçilik gerektirir.", "El yazmalarında süsleme olarak kullanılır."],
+      "clues_en": ["Art piece made in small sizes.", "Requires detailed and fine workmanship.", "Used as decoration in manuscripts."]
+    },
+    {
+      "word_tr": "CEVAP",
+      "word_en": "ANSWER",
+      "clues_tr": ["Bir soruya verilen yanıt.", "Sorun çözme sürecinde önemlidir.", "Doğru veya yanlış olabilir."],
+      "clues_en": ["Response given to a question.", "Important in problem-solving.", "Can be correct or incorrect."]
+    },
+    {
+      "word_tr": "İPUCU",
+      "word_en": "CLUE",
+      "clues_tr": ["Bir sorunu çözmeye yardımcı bilgi.", "Bulmaca ve dedektiflik oyunlarında kullanılır.", "Sonuca ulaşmayı sağlar."],
+      "clues_en": ["Information helping to solve a problem.", "Used in puzzles and detective games.", "Leads to a conclusion."]
+    },
+    {
+      "word_tr": "TREND",
+      "word_en": "TREND",
+      "clues_tr": ["Moda veya genel eğilim.", "Popüler olan şey.", "Zamanla değişen ve yenilenen."],
+      "clues_en": ["Fashion or general tendency.", "Popular thing.", "Changing and renewing over time."]
+    },
+    {
+      "word_tr": "TERAZİ",
+      "word_en": "LIBRA",
+      "clues_tr": ["Zodyak burçlarından biri.", "Adalet ve denge ile ilişkilendirilir.", "Eylül ve Ekim aylarını kapsar."],
+      "clues_en": ["One of the zodiac signs.", "Associated with justice and balance.", "Covers September and October."]
+    },
+    {
+      "word_tr": "SOKRATES",
+      "word_en": "SOCRATES",
+      "clues_tr": ["Antik Yunan filozofu.", "Sokratik yöntemle bilinir.", "Plato'nun öğretmeni."],
+      "clues_en": ["Ancient Greek philosopher.", "Known for the Socratic method.", "Teacher of Plato."]
+    },
+    {
+      "word_tr": "KUKLA",
+      "word_en": "PUPPET",
+      "clues_tr": ["İpleri veya sopaları olan oyuncak.", "Tiyatro gösterilerinde kullanılır.", "Konuşan veya hareket eden figürler."],
+      "clues_en": ["Toy with strings or rods.", "Used in theater performances.", "Talking or moving figures."]
+    }
+  ]
+}

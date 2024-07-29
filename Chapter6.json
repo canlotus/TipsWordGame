@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "KUARK",
+      "word_en": "QUARK",
+      "clues_tr": ["Maddenin temel parçacığı.", "Proton ve nötronların yapı taşıdır.", "Altı çeşidi vardır."],
+      "clues_en": ["Fundamental particle of matter.", "Building block of protons and neutrons.", "Has six types."]
+    },
+    {
+      "word_tr": "HOLOGRAM",
+      "word_en": "HOLOGRAM",
+      "clues_tr": ["Üç boyutlu görüntü oluşturan teknoloji.", "Lazer ışıkları kullanılarak yapılır.", "Görsel efektlerde kullanılır."],
+      "clues_en": ["Technology creating three-dimensional images.", "Made using laser lights.", "Used in visual effects."]
+    },
+    {
+      "word_tr": "PALEONTOLOJİ",
+      "word_en": "PALEONTOLOGY",
+      "clues_tr": ["Fosil bilimidir.", "Geçmiş yaşam formlarını inceler.", "Yer bilimlerinin bir dalıdır."],
+      "clues_en": ["Science of fossils.", "Studies past life forms.", "A branch of earth sciences."]
+    },
+    {
+      "word_tr": "MOLEKÜL",
+      "word_en": "MOLECULE",
+      "clues_tr": ["Atomların birleşmesiyle oluşan yapı.", "Kimyasal bileşiklerin temelidir.", "Su molekülü H2O örneğidir."],
+      "clues_en": ["Structure formed by the combination of atoms.", "Basis of chemical compounds.", "Water molecule H2O is an example."]
+    },
+    {
+      "word_tr": "FOTOĞRAFÇILIK",
+      "word_en": "PHOTOGRAPHY",
+      "clues_tr": ["Görüntü yakalama sanatı.", "Kamera ile yapılır.", "Doğal ve stüdyo ortamlarında uygulanır."],
+      "clues_en": ["Art of capturing images.", "Done with a camera.", "Applied in natural and studio environments."]
+    },
+    {
+      "word_tr": "KIRKAYAK",
+      "word_en": "CENTIPEDE",
+      "clues_tr": ["Çok sayıda bacaklı eklem bacaklı.", "Genellikle nemli yerlerde yaşar.", "Bazı türleri zehirlidir."],
+      "clues_en": ["Arthropod with many legs.", "Usually lives in moist places.", "Some species are poisonous."]
+    },
+    {
+      "word_tr": "ŞİMŞEK",
+      "word_en": "LIGHTNING",
+      "clues_tr": ["Gökyüzünde aniden parlayan ışık.", "Fırtınalar sırasında görülür.", "Elektriksel boşalma sonucu oluşur."],
+      "clues_en": ["Sudden flash of light in the sky.", "Seen during storms.", "Occurs due to electrical discharge."]
+    },
+    {
+      "word_tr": "DALGAKIRAN",
+      "word_en": "BREAKWATER",
+      "clues_tr": ["Deniz dalgalarını kırmak için yapılan yapı.", "Limanları korur.", "Genellikle taş veya beton kullanılır."],
+      "clues_en": ["Structure built to break sea waves.", "Protects harbors.", "Usually made of stone or concrete."]
+    },
+    {
+      "word_tr": "PARAGRAF",
+      "word_en": "PARAGRAPH",
+      "clues_tr": ["Metinlerde bir konuyu ele alan bölüm.", "Cümleler arasında boşluk bırakılır.", "Yazının anlam bütünlüğünü sağlar."],
+      "clues_en": ["Section in texts discussing a topic.", "Space left between sentences.", "Ensures the coherence of the text."]
+    },
+    {
+      "word_tr": "PALMİYE",
+      "word_en": "PALM",
+      "clues_tr": ["Tropikal iklimlerde yetişen ağaç.", "Uzun gövdesi ve büyük yaprakları vardır.", "Kumsallarda sıkça görülür."],
+      "clues_en": ["Tree growing in tropical climates.", "Has a long trunk and large leaves.", "Often seen on beaches."]
+    },
+    {
+      "word_tr": "GÜVERTE",
+      "word_en": "DECK",
+      "clues_tr": ["Gemi veya teknenin açık alanı.", "Yolcuların yürüyebildiği bölüm.", "Güneşlenmek için kullanılır."],
+      "clues_en": ["Open area on a ship or boat.", "Section where passengers can walk.", "Used for sunbathing."]
+    },
+    {
+      "word_tr": "ELF",
+      "word_en": "ELF",
+      "clues_tr": ["Mitolojik küçük insan.", "Doğaüstü güçleri vardır.", "Masal ve efsanelerde yer alır."],
+      "clues_en": ["Mythological small human.", "Has supernatural powers.", "Appears in fairy tales and legends."]
+    },
+    {
+      "word_tr": "REHİN",
+      "word_en": "PAWN",
+      "clues_tr": ["Borç karşılığı alınan eşya.", "Geri ödeme yapılınca iade edilir.", "Kuyumcularda sıkça kullanılır."],
+      "clues_en": ["Item taken as collateral for a loan.", "Returned when repayment is made.", "Often used in pawnshops."]
+    },
+    {
+      "word_tr": "LİMAN",
+      "word_en": "HARBOR",
+      "clues_tr": ["Gemilerin barındığı korunaklı yer.", "Yük ve yolcu taşımacılığı yapılır.", "Deniz trafiği için önemlidir."],
+      "clues_en": ["Sheltered place where ships dock.", "Used for cargo and passenger transport.", "Important for sea traffic."]
+    },
+    {
+      "word_tr": "TİMSAH",
+      "word_en": "CROCODILE",
+      "clues_tr": ["Büyük ve tehlikeli su sürüngeni.", "Güçlü çeneleri vardır.", "Nehir ve bataklıklarda yaşar."],
+      "clues_en": ["Large and dangerous water reptile.", "Has powerful jaws.", "Lives in rivers and swamps."]
+    }
+  ]
+}

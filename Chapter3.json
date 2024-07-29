@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "DİNOZOR",
+      "word_en": "DINOSAUR",
+      "clues_tr": ["Milyonlarca yıl önce yaşamış devasa sürüngen.", "Fosilleri müzelerde sergilenir.", "Jurassic Park filminde işlenmiştir."],
+      "clues_en": ["Huge reptiles that lived millions of years ago.", "Fossils are displayed in museums.", "Featured in Jurassic Park."]
+    },
+    {
+      "word_tr": "NİAGARA",
+      "word_en": "NIAGARA",
+      "clues_tr": ["Kuzey Amerika'daki ünlü şelale.", "Kanada ve ABD sınırında bulunur.", "Turistlerin uğrak noktasıdır."],
+      "clues_en": ["Famous waterfall in North America.", "Located on the Canada-USA border.", "A tourist hotspot."]
+    },
+    {
+      "word_tr": "HİYEROGLİF",
+      "word_en": "HIEROGLYPH",
+      "clues_tr": ["Antik Mısır yazı sistemi.", "Sembollerle ifade edilir.", "Tapınak ve mezar duvarlarında bulunur."],
+      "clues_en": ["Ancient Egyptian writing system.", "Expressed with symbols.", "Found on temple and tomb walls."]
+    },
+    {
+      "word_tr": "KOZMİK",
+      "word_en": "COSMIC",
+      "clues_tr": ["Evren ve onun düzeni.", "Yıldızlar ve gezegenlerle ilgili.", "Uzay araştırmalarının konusudur."],
+      "clues_en": ["Belonging to the universe.", "Related to stars and planets.", "Subject of space research."]
+    },
+    {
+      "word_tr": "TELVE",
+      "word_en": "GROUNDS",
+      "clues_tr": ["Türk kahvesinin dibinde kalan kısım.", "Fincanın dibinde bulunur.", "Fal bakmak için kullanılır."],
+      "clues_en": ["Residue left at the bottom of Turkish coffee.", "Found at the bottom of the cup.", "Used for fortune telling."]
+    },
+    {
+      "word_tr": "GİTAR",
+      "word_en": "GUITAR",
+      "clues_tr": ["Telli bir müzik aleti.", "Parmakla veya pena ile çalınır.", "Klasik, akustik ve elektrik çeşitleri vardır."],
+      "clues_en": ["Stringed musical instrument.", "Played with fingers or a pick.", "Has classical, acoustic, and electric types."]
+    },
+    {
+      "word_tr": "ZÜRAFA",
+      "word_en": "GIRAFFE",
+      "clues_tr": ["Dünyanın en uzun boylu hayvanı.", "Uzun boyun ve bacakları vardır.", "Afrika savanlarında yaşar."],
+      "clues_en": ["Tallest animal in the world.", "Has long neck and legs.", "Lives in African savannas."]
+    },
+    {
+      "word_tr": "MESAİ",
+      "word_en": "OVERTIME",
+      "clues_tr": ["Normal çalışma saatleri dışında yapılan iş.", "Ekstra ücretle çalışılır.", "Çalışma süresinin uzatılması."],
+      "clues_en": ["Work done outside regular hours.", "Worked for extra pay.", "Extension of working time."]
+    },
+    {
+      "word_tr": "AJANDA",
+      "word_en": "AGENDA",
+      "clues_tr": ["Planlanan işleri not almak için kullanılır.", "Günlük veya haftalık düzenlenir.", "Toplantılar ve randevular kaydedilir."],
+      "clues_en": ["Used to note planned tasks.", "Arranged daily or weekly.", "Meetings and appointments are recorded."]
+    },
+    {
+      "word_tr": "TOKYO",
+      "word_en": "TOKYO",
+      "clues_tr": ["Japonya'nın başkenti.", "Dünyanın en kalabalık şehirlerinden biri.", "Fuji Dağı'na yakındır."],
+      "clues_en": ["Capital of Japan.", "One of the most populous cities in the world.", "Close to Mount Fuji."]
+    },
+    {
+      "word_tr": "İŞTAH",
+      "word_en": "APPETITE",
+      "clues_tr": ["Yemek yeme isteği.", "Açlık hissiyle artar.", "Gıda tüketme arzusu."],
+      "clues_en": ["Desire to eat.", "Increases with hunger.", "Urge to consume food."]
+    },
+    {
+      "word_tr": "İHALE",
+      "word_en": "TENDER",
+      "clues_tr": ["Bir iş veya mal için yapılan teklif süreci.", "Genellikle en iyi fiyatı bulmak için yapılır.", "Resmi ve ticari işlerde kullanılır."],
+      "clues_en": ["Bidding process for a job or goods.", "Usually done to find the best price.", "Used in official and commercial affairs."]
+    },
+    {
+      "word_tr": "STAJ",
+      "word_en": "INTERNSHIP",
+      "clues_tr": ["Mesleki deneyim kazanma dönemi.", "Öğrenciler ve yeni mezunlar için yapılır.", "Geçici bir iş deneyimidir."],
+      "clues_en": ["Period to gain professional experience.", "Done by students and recent graduates.", "Temporary work experience."]
+    },
+    {
+      "word_tr": "PLAKET",
+      "word_en": "PLAQUE",
+      "clues_tr": ["Başarı veya yapılan iş için verilen hatıra objesi.", "Ahşap veya metalden yapılır.", "Ödül törenlerinde verilir."],
+      "clues_en": ["Plate given for achievement or memory.", "Made of wood or metal.", "Given at award ceremonies."]
+    },
+    {
+      "word_tr": "TECRÜBE",
+      "word_en": "EXPERIENCE",
+      "clues_tr": ["Bilgi ve beceri kazanımı.", "Deneyim yoluyla elde edilir.", "Zamanla birikir."],
+      "clues_en": ["Gaining knowledge and skills.", "Acquired through practice.", "Accumulates over time."]
+    }
+  ]
+}

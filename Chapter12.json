@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "ÇAVDAR",
+      "word_en": "RYE",
+      "clues_tr": ["Tahıl bitkisi.", "Ekmek yapımında kullanılır.", "Koyu renkli un üretir."],
+      "clues_en": ["Cereal plant.", "Used in bread making.", "Produces dark-colored flour."]
+    },
+    {
+      "word_tr": "MESELE",
+      "word_en": "ISSUE",
+      "clues_tr": ["Çözülmesi gereken sorun.", "Tartışma konusu olabilir.", "Önemli bir problem."],
+      "clues_en": ["Problem that needs solving.", "Can be a topic of discussion.", "An important problem."]
+    },
+    {
+      "word_tr": "KİLİM",
+      "word_en": "RUG",
+      "clues_tr": ["Düz dokuma halı.", "Genellikle dekorasyon amacıyla kullanılır.", "El dokuması olabilir."],
+      "clues_en": ["Flat-woven carpet.", "Usually used for decoration.", "Can be handmade."]
+    },
+    {
+      "word_tr": "TEKİL",
+      "word_en": "SINGULAR",
+      "clues_tr": ["Tek bir kişi veya şey.", "Çoğul olmayan.", "Gramerde özel bir biçim."],
+      "clues_en": ["One person or thing.", "Not plural.", "Special form in grammar."]
+    },
+    {
+      "word_tr": "ORİGAMİ",
+      "word_en": "ORIGAMI",
+      "clues_tr": ["Kağıt katlama sanatı.", "Japon kökenlidir.", "Hayvan ve çiçek figürleri yapılır."],
+      "clues_en": ["The art of paper folding.", "Originates from Japan.", "Figures of animals and flowers are made."]
+    },
+    {
+      "word_tr": "SOLİST",
+      "word_en": "SOLOIST",
+      "clues_tr": ["Tek başına performans sergileyen sanatçı.", "Konserlerde solo şarkı söyler.", "Orkestra eşliğinde olabilir."],
+      "clues_en": ["Artist performing alone.", "Sings solo in concerts.", "Can be accompanied by an orchestra."]
+    },
+    {
+      "word_tr": "VAKIF",
+      "word_en": "FOUNDATION",
+      "clues_tr": ["Toplum yararına çalışan kurum.", "Bağış ve yardımlarla desteklenir.", "Eğitim ve sağlık gibi alanlarda faaliyet gösterir."],
+      "clues_en": ["Institution working for the public benefit.", "Supported by donations and aid.", "Operates in fields like education and health."]
+    },
+    {
+      "word_tr": "YANLIŞ",
+      "word_en": "WRONG",
+      "clues_tr": ["Doğru olmayan.", "Hatalı veya eksik bilgi.", "Doğruluğu kanıtlanmamış."],
+      "clues_en": ["Not correct.", "Faulty or incomplete information.", "Not proven to be true."]
+    },
+    {
+      "word_tr": "SÖZCÜK",
+      "word_en": "WORD",
+      "clues_tr": ["Dil birimi.", "Cümleleri oluşturur.", "Yazılı ve sözlü iletişimin temelidir."],
+      "clues_en": ["Unit of language.", "Forms sentences.", "Basis of written and spoken communication."]
+    },
+    {
+      "word_tr": "PALYAÇO",
+      "word_en": "CLOWN",
+      "clues_tr": ["Sirklerde komik gösteriler yapan kişi.", "Renkli kıyafetler giyer.", "Çocukları eğlendirir."],
+      "clues_en": ["Person doing funny shows in circuses.", "Wears colorful clothes.", "Entertains children."]
+    },
+    {
+      "word_tr": "FLAMA",
+      "word_en": "FLAG",
+      "clues_tr": ["Renkli kumaştan bayrak.", "Bir ülkeyi veya organizasyonu temsil eder.", "Gönderde dalgalanır."],
+      "clues_en": ["Colored fabric banner.", "Represents a country or organization.", "Flies on a flagpole."]
+    },
+    {
+      "word_tr": "DANİMARKA",
+      "word_en": "DENMARK",
+      "clues_tr": ["Avrupa'da bir ülke.", "Viking geçmişi ile bilinir.", "Başkent Kopenhag'dır."],
+      "clues_en": ["Country in Europe.", "Known for its Viking history.", "Capital is Copenhagen."]
+    },
+    {
+      "word_tr": "LİMON",
+      "word_en": "LEMON",
+      "clues_tr": ["Sarı renkli meyve.", "Ekşi ve ferahlatıcı bir tadı vardır.", "C vitamini deposudur."],
+      "clues_en": ["Yellow fruit.", "Has a sour and refreshing taste.", "Rich in vitamin C."]
+    },
+    {
+      "word_tr": "ATOM",
+      "word_en": "ATOM",
+      "clues_tr": ["Maddenin en küçük yapı taşı.", "Proton, nötron ve elektron içerir.", "Kimyasal elementlerin temelidir."],
+      "clues_en": ["Smallest unit of matter.", "Contains protons, neutrons, and electrons.", "Basis of chemical elements."]
+    },
+    {
+      "word_tr": "MİAMİ",
+      "word_en": "MIAMI",
+      "clues_tr": ["ABD'de bir şehir.", "Florida eyaletinde bulunur.", "Güzel plajları ve gece hayatı ile ünlüdür."],
+      "clues_en": ["City in the USA.", "Located in the state of Florida.", "Famous for its beautiful beaches and nightlife."]
+    }
+  ]
+}

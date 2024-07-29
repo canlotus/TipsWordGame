@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "KOALA",
+      "word_en": "KOALA",
+      "clues_tr": ["Avustralya'ya özgü, ağaçlarda yaşayan hayvan.", "Okaliptüs yaprakları ile beslenir.", "Yavaş hareket eder ve gündüzleri uyur."],
+      "clues_en": ["Tree-dwelling animal native to Australia.", "Feeds on eucalyptus leaves.", "Moves slowly and sleeps during the day."]
+    },
+    {
+      "word_tr": "PİYON",
+      "word_en": "PAWN",
+      "clues_tr": ["Satranç tahtasındaki en zayıf taş.", "Sadece bir kare ileri hareket eder.", "Yatayda veya çaprazda piyonla taş alınır."],
+      "clues_en": ["The weakest piece on the chessboard.", "Moves only one square forward.", "Captures pieces horizontally or diagonally."]
+    },
+    {
+      "word_tr": "TEOREM",
+      "word_en": "THEOREM",
+      "clues_tr": ["Matematiksel olarak kanıtlanmış ifade.", "Geometri ve matematikte kullanılır.", "Aksiyomlardan türetilir."],
+      "clues_en": ["Mathematically proven statement.", "Used in geometry and mathematics.", "Derived from axioms."]
+    },
+    {
+      "word_tr": "ÇERÇEVE",
+      "word_en": "FRAME",
+      "clues_tr": ["Resimleri veya fotoğrafları tutan yapı.", "Genellikle ahşap veya metalden yapılır.", "Duvarlara asılır veya masa üstüne konur."],
+      "clues_en": ["Structure holding pictures or photos.", "Usually made of wood or metal.", "Hung on walls or placed on tables."]
+    },
+    {
+      "word_tr": "ORTALAMA",
+      "word_en": "AVERAGE",
+      "clues_tr": ["Bir dizi değerin toplamının, eleman sayısına bölümü.", "İstatistikte sıkça kullanılır.", "Orta değer olarak da bilinir."],
+      "clues_en": ["Sum of a series of values divided by the number of elements.", "Frequently used in statistics.", "Also known as the mean value."]
+    },
+    {
+      "word_tr": "YILDIRIM",
+      "word_en": "LIGHTNING",
+      "clues_tr": ["Hava olayları sırasında oluşan elektriksel boşalma.", "Gökyüzünde ani parlaklık oluşturur.", "Fırtınalar sırasında görülür."],
+      "clues_en": ["Electrical discharge occurring during weather events.", "Creates a sudden brightness in the sky.", "Seen during storms."]
+    },
+    {
+      "word_tr": "GÜREŞ",
+      "word_en": "WRESTLING",
+      "clues_tr": ["İki kişinin güç ve teknik kullanarak birbirini yere sermeye çalıştığı spor.", "Minder üzerinde yapılır.", "Olimpiyatlarda yer alır."],
+      "clues_en": ["Sport where two people use strength and technique to pin each other down.", "Performed on a mat.", "Included in the Olympics."]
+    },
+    {
+      "word_tr": "KELEBEK",
+      "word_en": "BUTTERFLY",
+      "clues_tr": ["Renkli kanatlara sahip uçan böcek.", "Metamorfoz geçirerek larvadan dönüşür.", "Çiçeklerden nektar toplar."],
+      "clues_en": ["Flying insect with colorful wings.", "Transforms from a larva through metamorphosis.", "Collects nectar from flowers."]
+    },
+    {
+      "word_tr": "ORTAM",
+      "word_en": "ENVIRONMENT",
+      "clues_tr": ["Canlıların yaşadığı ve etkileşimde bulunduğu alan.", "Doğal veya yapay olabilir.", "Çevresel faktörler içerir."],
+      "clues_en": ["Area where living beings live and interact.", "Can be natural or artificial.", "Includes environmental factors."]
+    },
+    {
+      "word_tr": "SİNEK",
+      "word_en": "FLY",
+      "clues_tr": ["Kanatları olan küçük böcek.", "Gıda ve çöp üzerinde bulunur.", "Yüksek hızlı kanat çırpar."],
+      "clues_en": ["Small insect with wings.", "Found on food and garbage.", "Flaps its wings at high speed."]
+    },
+    {
+      "word_tr": "SALATA",
+      "word_en": "SALAD",
+      "clues_tr": ["Çeşitli sebzelerin karışımı ile yapılan yemek.", "Yeşil yapraklı sebzeler içerir.", "Genellikle soğuk olarak tüketilir."],
+      "clues_en": ["Dish made by mixing various vegetables.", "Includes leafy green vegetables.", "Usually consumed cold."]
+    },
+    {
+      "word_tr": "SATIŞ",
+      "word_en": "SALE",
+      "clues_tr": ["Mal veya hizmetlerin belirli bir bedel karşılığında el değiştirmesi.", "Ticaretin temelidir.", "Satıcı ve alıcı arasında gerçekleşir."],
+      "clues_en": ["Exchange of goods or services for a specific price.", "Fundamental of commerce.", "Occurs between seller and buyer."]
+    },
+    {
+      "word_tr": "BARCELONA",
+      "word_en": "BARCELONA",
+      "clues_tr": ["İspanya'da bir şehir.", "Katalonya bölgesinin başkentidir.", "Sagrada Familia ve Park Güell ile ünlüdür."],
+      "clues_en": ["City in Spain.", "Capital of the Catalonia region.", "Famous for Sagrada Familia and Park Güell."]
+    },
+    {
+      "word_tr": "KANTİN",
+      "word_en": "CANTEEN",
+      "clues_tr": ["Okul veya iş yerlerinde yiyecek ve içecek satılan yer.", "Çalışanlar ve öğrenciler tarafından kullanılır.", "Kahvaltı ve öğle yemeği servis edilir."],
+      "clues_en": ["Place where food and drinks are sold in schools or workplaces.", "Used by employees and students.", "Breakfast and lunch are served."]
+    },
+    {
+      "word_tr": "TÖREN",
+      "word_en": "CEREMONY",
+      "clues_tr": ["Resmi veya özel bir etkinlik.", "Kutlama veya anma amacıyla düzenlenir.", "Geleneksel ve ritüel içerikler barındırabilir."],
+      "clues_en": ["Official or special event.", "Organized for celebration or commemoration.", "May include traditional and ritual contents."]
+    }
+  ]
+}

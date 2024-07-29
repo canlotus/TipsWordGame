@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "KUTSAL",
+      "word_en": "SACRED",
+      "clues_tr": ["Dini veya manevi öneme sahip.", "Saygı gösterilir ve korunur.", "Tapınaklar ve ibadet yerleri ile ilişkilendirilir."],
+      "clues_en": ["Of religious or spiritual significance.", "Respected and protected.", "Associated with temples and places of worship."]
+    },
+    {
+      "word_tr": "UZLAŞMAK",
+      "word_en": "COMPROMISE",
+      "clues_tr": ["Farklı görüşler arasında orta yol bulma.", "İki tarafın da bazı ödünler vermesi.", "Anlaşmazlıkları çözmek için kullanılır."],
+      "clues_en": ["Finding a middle ground between differing views.", "Both sides making some concessions.", "Used to resolve conflicts."]
+    },
+    {
+      "word_tr": "KANAT",
+      "word_en": "WING",
+      "clues_tr": ["Kuşların ve uçakların uçmasını sağlayan parça.", "İki yana uzanır.", "Havada denge sağlar."],
+      "clues_en": ["Part enabling birds and planes to fly.", "Extends to both sides.", "Provides balance in the air."]
+    },
+    {
+      "word_tr": "BÜYÜKAYI",
+      "word_en": "URSA MAJOR",
+      "clues_tr": ["Gökyüzünde büyük bir takımyıldız.", "Kuzey Yarımküre'de bulunur.", "Büyük Kepçe olarak da bilinir."],
+      "clues_en": ["Large constellation in the sky.", "Located in the Northern Hemisphere.", "Also known as the Big Dipper."]
+    },
+    {
+      "word_tr": "BALMUMU",
+      "word_en": "WAX",
+      "clues_tr": ["Arılar tarafından üretilen doğal madde.", "Mum yapımında kullanılır.", "Yumuşak ve şekillendirilebilir."],
+      "clues_en": ["Natural substance produced by bees.", "Used in making candles.", "Soft and moldable."]
+    },
+    {
+      "word_tr": "SİSMOGRAF",
+      "word_en": "SEISMOGRAPH",
+      "clues_tr": ["Deprem ölçüm cihazı.", "Yer hareketlerini kaydeder.", "Sismoloji biliminde kullanılır."],
+      "clues_en": ["Earthquake measuring device.", "Records ground movements.", "Used in the science of seismology."]
+    },
+    {
+      "word_tr": "DÖNEM",
+      "word_en": "PERIOD",
+      "clues_tr": ["Belirli bir zaman dilimi.", "Tarihi olayların gerçekleştiği süreç.", "Devir veya çağ olarak bilinir."],
+      "clues_en": ["Specific time frame.", "Process during which historical events occur.", "Known as an era or age."]
+    },
+    {
+      "word_tr": "BÖLGE",
+      "word_en": "REGION",
+      "clues_tr": ["Coğrafi veya idari olarak ayrılmış alan.", "Belirli özelliklere sahip olabilir.", "İklim veya kültür açısından farklılık gösterebilir."],
+      "clues_en": ["Geographically or administratively divided area.", "May have specific characteristics.", "Can vary in terms of climate or culture."]
+    },
+    {
+      "word_tr": "FİDAN",
+      "word_en": "SAPLING",
+      "clues_tr": ["Genç ağaç.", "Büyümek ve olgunlaşmak için dikilir.", "Fidanlıkta yetiştirilir."],
+      "clues_en": ["Young tree.", "Planted to grow and mature.", "Cultivated in a nursery."]
+    },
+    {
+      "word_tr": "TAKO",
+      "word_en": "TACO",
+      "clues_tr": ["Meksika'ya özgü bir yiyecek.", "Mısır veya buğday tortillaları kullanılır.", "Et, sebze ve peynir ile doldurulur."],
+      "clues_en": ["Mexican dish.", "Uses corn or wheat tortillas.", "Filled with meat, vegetables, and cheese."]
+    },
+    {
+      "word_tr": "SİNGAPUR",
+      "word_en": "SINGAPORE",
+      "clues_tr": ["Güneydoğu Asya'da bir şehir devleti.", "Modern ve kozmopolit bir yer.", "Ticaret ve finans merkezi."],
+      "clues_en": ["City-state in Southeast Asia.", "Modern and cosmopolitan place.", "Trade and financial hub."]
+    },
+    {
+      "word_tr": "YETENEK",
+      "word_en": "TALENT",
+      "clues_tr": ["Doğuştan gelen veya sonradan geliştirilen beceri.", "Sanat, spor veya bilim alanında olabilir.", "Başarıyı getiren önemli bir özelliktir."],
+      "clues_en": ["Innate or developed skill.", "Can be in art, sports, or science.", "Important trait that brings success."]
+    },
+    {
+      "word_tr": "METAN",
+      "word_en": "METHANE",
+      "clues_tr": ["Basit hidrokarbon gazı.", "Doğal gazın ana bileşenidir.", "Yanıcı ve patlayıcı özelliklere sahiptir."],
+      "clues_en": ["Simple hydrocarbon gas.", "Main component of natural gas.", "Has flammable and explosive properties."]
+    },
+    {
+      "word_tr": "İLİŞKİ",
+      "word_en": "RELATIONSHIP",
+      "clues_tr": ["İki veya daha fazla kişi arasındaki bağ.", "Duygusal, sosyal veya iş bağlantısı olabilir.", "Kişisel veya profesyonel olabilir."],
+      "clues_en": ["Bond between two or more people.", "Can be emotional, social, or business-related.", "Can be personal or professional."]
+    },
+    {
+      "word_tr": "RAMPA",
+      "word_en": "RAMP",
+      "clues_tr": ["Eğimli yol veya geçit.", "Engelli erişimini sağlar.", "Araçlar veya yaya trafiği için kullanılır."],
+      "clues_en": ["Inclined road or passage.", "Provides accessibility for the disabled.", "Used for vehicles or pedestrian traffic."]
+    }
+  ]
+}

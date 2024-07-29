@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "MISIR",
+      "word_en": "CORN",
+      "clues_tr": ["Taneleri sarıdır.", "Patlamış hali sinema keyfi yapar.", "Tarlalarda yetişir."],
+      "clues_en": ["Its kernels are yellow.", "Popped form makes movie time fun.", "Grows in fields."]
+    },
+    {
+      "word_tr": "JEST",
+      "word_en": "GESTURE",
+      "clues_tr": ["El veya vücut hareketiyle yapılan iletişim.", "Nazik ve düşünceli bir hareket.", "Anlam ifade eden vücut dili."],
+      "clues_en": ["Communication through hand or body movements.", "A kind and thoughtful act.", "Body language that conveys meaning."]
+    },
+    {
+      "word_tr": "GAZOZ",
+      "word_en": "SODA",
+      "clues_tr": ["Tatlı ve gazlı içecek.", "Serinletici ve ferahlatıcıdır.", "Şişede veya kutuda satılır."],
+      "clues_en": ["Sweet and fizzy drink.", "Refreshing and cooling.", "Sold in bottles or cans."]
+    },
+    {
+      "word_tr": "GÜNEY",
+      "word_en": "SOUTH",
+      "clues_tr": ["Pusulanın alt kısmı.", "Daha sıcak iklimler burada bulunur.", "Kuzeyin tam tersi yön."],
+      "clues_en": ["Opposite direction of north.", "Warmer climates are found here.", "Bottom part of the compass."]
+    },
+    {
+      "word_tr": "ESKİMO",
+      "word_en": "ESKIMO",
+      "clues_tr": ["Kutup bölgelerinde yaşayan halk.", "Kar ve buzdan yapılmış evlerde yaşar.", "Balık ve deniz ürünleri tüketir."],
+      "clues_en": ["People living in polar regions.", "Live in houses made of snow and ice.", "Consume fish and seafood."]
+    },
+    {
+      "word_tr": "GURME",
+      "word_en": "GOURMET",
+      "clues_tr": ["Yiyecek ve içeceklerde uzmanlaşmış kişi.", "Lezzetli ve kaliteli yiyecekleri sever.", "Gastronomi meraklısı."],
+      "clues_en": ["Person specialized in food and drink.", "Loves delicious and high-quality food.", "Gastronomy enthusiast."]
+    },
+    {
+      "word_tr": "BUKALEMUN",
+      "word_en": "CHAMELEON",
+      "clues_tr": ["Renk değiştirebilen bir sürüngen.", "Ağaçlarda yaşar.", "Diliyle böcekleri yakalar."],
+      "clues_en": ["A reptile that can change colors.", "Lives in trees.", "Catches insects with its tongue."]
+    },
+    {
+      "word_tr": "YELPAZE",
+      "word_en": "FAN",
+      "clues_tr": ["El ile sallanarak serinlemek için kullanılır.", "Katlanabilir ve taşınabilir.", "Eski zamanlarda hanımlar kullanırdı."],
+      "clues_en": ["Used for cooling by waving by hand.", "Foldable and portable.", "Ladies used it in old times."]
+    },
+    {
+      "word_tr": "BİYOLOJİ",
+      "word_en": "BIOLOGY",
+      "clues_tr": ["Canlıları inceleyen bilim dalı.", "Hücre, genetik ve ekoloji konularını kapsar.", "Okullarda öğretilir."],
+      "clues_en": ["Science studying living organisms.", "Covers topics like cells, genetics, and ecology.", "Taught in schools."]
+    },
+    {
+      "word_tr": "REKLAM",
+      "word_en": "ADVERTISING",
+      "clues_tr": ["Ürün veya hizmetin tanıtımı.", "Televizyon, radyo veya internette yer alır.", "Satışları artırmayı amaçlar."],
+      "clues_en": ["Promotion of a product or service.", "Found on TV, radio, or the internet.", "Aims to increase sales."]
+    },
+    {
+      "word_tr": "DOLGU",
+      "word_en": "FILLING",
+      "clues_tr": ["Diş çürüklerini tedavi etmek için kullanılır.", "Boşlukları doldurur.", "Diş doktorları tarafından yapılır."],
+      "clues_en": ["Used to treat tooth decay.", "Fills cavities.", "Done by dentists."]
+    },
+    {
+      "word_tr": "LADES",
+      "word_en": "WISHBONE",
+      "clues_tr": ["Tavuk veya hindi kemiği.", "Kırılarak dilek tutulur.", "İki kişi tarafından çekilir."],
+      "clues_en": ["Chicken or turkey bone.", "Wishes are made by breaking it.", "Pulled by two people."]
+    },
+    {
+      "word_tr": "AMAZON",
+      "word_en": "AMAZON",
+      "clues_tr": ["Güney Amerika'da büyük bir orman.", "Dünyanın en büyük yağmur ormanı.", "Bir nehrin adını da taşır."],
+      "clues_en": ["A large forest in South America.", "World's largest rainforest.", "Also names a river."]
+    },
+    {
+      "word_tr": "DÖVME",
+      "word_en": "TATTOO",
+      "clues_tr": ["Vücuda yapılan kalıcı desenler.", "Mürekkep ve iğne ile yapılır.", "Kişisel ifade şekli."],
+      "clues_en": ["Permanent designs made on the body.", "Made with ink and needle.", "A form of personal expression."]
+    },
+    {
+      "word_tr": "PARİS",
+      "word_en": "PARIS",
+      "clues_tr": ["Fransa'nın başkenti.", "Eyfel Kulesi ile ünlüdür.", "Aşk şehri olarak bilinir."],
+      "clues_en": ["Capital of France.", "Famous for the Eiffel Tower.", "Known as the city of love."]
+    }
+  ]
+}

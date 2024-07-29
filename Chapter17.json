@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "İÇECEK",
+      "word_en": "BEVERAGE",
+      "clues_tr": ["İçmek için tüketilen sıvı.", "Soğuk veya sıcak olabilir.", "Su, meyve suyu, çay gibi örnekleri vardır."],
+      "clues_en": ["Liquid consumed for drinking.", "Can be cold or hot.", "Examples include water, juice, tea."]
+    },
+    {
+      "word_tr": "KURBAĞA",
+      "word_en": "FROG",
+      "clues_tr": ["Suda ve karada yaşayan amfibi.", "Uzun bacakları ve zıplama yeteneği vardır.", "Gölet ve nehirlerde bulunur."],
+      "clues_en": ["Amphibian living in water and land.", "Has long legs and jumping ability.", "Found in ponds and rivers."]
+    },
+    {
+      "word_tr": "RAMSES",
+      "word_en": "RAMSES",
+      "clues_tr": ["Antik Mısır firavunu.", "Büyük bir lider ve inşaatçı olarak bilinir.", "Kendisine ait büyük anıtlar ve tapınaklar inşa ettirmiştir."],
+      "clues_en": ["Pharaoh of ancient Egypt.", "Known as a great leader and builder.", "Had large monuments and temples built for himself."]
+    },
+    {
+      "word_tr": "MADİK",
+      "word_en": "TRICK",
+      "clues_tr": ["Kandırma veya hile yapma eylemi.", "Genellikle oyunlarda veya mizah amaçlı yapılır.", "Birini yanıltmak için kullanılır."],
+      "clues_en": ["Act of deceiving or tricking.", "Usually done in games or for humor.", "Used to mislead someone."]
+    },
+    {
+      "word_tr": "LAİK",
+      "word_en": "SECULAR",
+      "clues_tr": ["Din ile devlet işlerinin ayrı tutulması.", "Laiklik prensibi.", "Modern devletlerde benimsenir."],
+      "clues_en": ["Separation of religion and state affairs.", "Principle of secularism.", "Adopted in modern states."]
+    },
+    {
+      "word_tr": "ARKEOLOJİ",
+      "word_en": "ARCHAEOLOGY",
+      "clues_tr": ["Geçmiş uygarlıkları inceleyen bilim dalı.", "Kazılar ve buluntular üzerine çalışır.", "Tarih öncesi dönemlere ışık tutar."],
+      "clues_en": ["Science studying ancient civilizations.", "Works on excavations and findings.", "Sheds light on prehistoric periods."]
+    },
+    {
+      "word_tr": "OPTİK",
+      "word_en": "OPTICAL",
+      "clues_tr": ["Gözle ilgili veya ışıkla ilgili olan.", "Optik cihazlar göz sağlığı için kullanılır.", "Gözlük ve lens gibi ürünler."],
+      "clues_en": ["Related to the eye or light.", "Optical devices are used for eye health.", "Products like glasses and lenses."]
+    },
+    {
+      "word_tr": "KAYGAN",
+      "word_en": "SLIPPERY",
+      "clues_tr": ["Üzerinde yürünmesi zor ve kaygan yüzey.", "Islak veya yağlı olabilir.", "Dikkat edilmezse düşmeye sebep olabilir."],
+      "clues_en": ["Surface that is hard to walk on and slippery.", "Can be wet or oily.", "Can cause falling if not careful."]
+    },
+    {
+      "word_tr": "KALEYDESKOP",
+      "word_en": "KALEIDOSCOPE",
+      "clues_tr": ["Renkli desenler oluşturan optik oyuncak.", "İçindeki aynalar ve parçalar sayesinde desenler değişir.", "Çocuklar için eğlencelidir."],
+      "clues_en": ["Optical toy creating colorful patterns.", "Patterns change with mirrors and pieces inside.", "Fun for children."]
+    },
+    {
+      "word_tr": "KOVUK",
+      "word_en": "HOLLOW",
+      "clues_tr": ["İçi boş olan yapı veya alan.", "Ağaçlarda ve yer altında bulunabilir.", "Hayvanlar için barınak olabilir."],
+      "clues_en": ["Structure or area that is empty inside.", "Can be found in trees and underground.", "Can be a shelter for animals."]
+    },
+    {
+      "word_tr": "KONTROL",
+      "word_en": "CONTROL",
+      "clues_tr": ["Bir şeyi yönetme veya denetleme yetkisi.", "Araçlarda ve makinelerde kullanılır.", "Güvenliği sağlamak için önemlidir."],
+      "clues_en": ["Authority to manage or supervise something.", "Used in vehicles and machines.", "Important for ensuring safety."]
+    },
+    {
+      "word_tr": "HEYKEL",
+      "word_en": "STATUE",
+      "clues_tr": ["Bir insan veya hayvan figürünün 3 boyutlu modeli.", "Taş, metal veya ahşaptan yapılır.", "Sanat ve anıt olarak kullanılır."],
+      "clues_en": ["3D model of a human or animal figure.", "Made of stone, metal, or wood.", "Used as art and monument."]
+    },
+    {
+      "word_tr": "TERAZİ",
+      "word_en": "SCALE",
+      "clues_tr": ["Ağırlık ölçme aleti.", "Adaletin sembolü olarak kullanılır.", "Pazarlarda ve laboratuvarlarda bulunur."],
+      "clues_en": ["Weight measuring device.", "Used as a symbol of justice.", "Found in markets and laboratories."]
+    },
+    {
+      "word_tr": "FİLOLOJİ",
+      "word_en": "PHILOLOGY",
+      "clues_tr": ["Dil bilimidir.", "Edebiyat ve dil tarihini inceler.", "Dil ve kültür ilişkisini araştırır."],
+      "clues_en": ["Study of languages.", "Examines literature and language history.", "Investigates the relationship between language and culture."]
+    },
+    {
+      "word_tr": "RESİM",
+      "word_en": "PICTURE",
+      "clues_tr": ["Görsel sanat eseri.", "Çizim veya fotoğraf olabilir.", "Dekorasyon veya sanat amacıyla kullanılır."],
+      "clues_en": ["Visual art piece.", "Can be a drawing or photograph.", "Used for decoration or art purposes."]
+    }
+  ]
+}

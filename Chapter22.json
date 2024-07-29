@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "ÖĞRETMEN",
+      "word_en": "TEACHER",
+      "clues_tr": ["Eğitim veren kişi.", "Okullarda çalışır.", "Öğrencilere bilgi ve beceri kazandırır."],
+      "clues_en": ["Person who provides education.", "Works in schools.", "Imparts knowledge and skills to students."]
+    },
+    {
+      "word_tr": "GRAMOFON",
+      "word_en": "GRAMOPHONE",
+      "clues_tr": ["Eski tip müzik çalma cihazı.", "Vinil plaklar kullanılır.", "Kolu çevrilerek çalıştırılır."],
+      "clues_en": ["Old type of music playing device.", "Uses vinyl records.", "Operated by turning a crank."]
+    },
+    {
+      "word_tr": "DAKTİLO",
+      "word_en": "TYPEWRITER",
+      "clues_tr": ["Yazı yazmak için kullanılan mekanik cihaz.", "Tuşlara basarak harfler kağıda işlenir.", "Bilgisayarlardan önce yaygındı."],
+      "clues_en": ["Mechanical device used for writing.", "Letters are imprinted on paper by pressing keys.", "Common before computers."]
+    },
+    {
+      "word_tr": "PAZAR",
+      "word_en": "MARKET",
+      "clues_tr": ["Ürünlerin alınıp satıldığı yer.", "Genellikle açık havada kurulur.", "Sebze, meyve ve gıda ürünleri bulunur."],
+      "clues_en": ["Place where goods are bought and sold.", "Usually set up outdoors.", "Includes vegetables, fruits, and food products."]
+    },
+    {
+      "word_tr": "DEVLET",
+      "word_en": "STATE",
+      "clues_tr": ["Bir ülkenin siyasi ve idari yapısı.", "Yasama, yürütme ve yargı organları vardır.", "Kamu hizmetlerini sağlar."],
+      "clues_en": ["Political and administrative structure of a country.", "Has legislative, executive, and judicial branches.", "Provides public services."]
+    },
+    {
+      "word_tr": "KLEOPATRA",
+      "word_en": "CLEOPATRA",
+      "clues_tr": ["Antik Mısır'ın son kraliçesi.", "Julius Caesar ve Mark Antony ile ilişkisi vardır.", "Ptolemaios hanedanındandır."],
+      "clues_en": ["The last queen of ancient Egypt.", "Had relationships with Julius Caesar and Mark Antony.", "Belongs to the Ptolemaic dynasty."]
+    },
+    {
+      "word_tr": "AKASYA",
+      "word_en": "ACACIA",
+      "clues_tr": ["Çiçekli bir ağaç türü.", "Genellikle sıcak iklimlerde yetişir.", "Peyzaj düzenlemelerinde kullanılır."],
+      "clues_en": ["Flowering tree species.", "Usually grows in warm climates.", "Used in landscape design."]
+    },
+    {
+      "word_tr": "SÜREÇ",
+      "word_en": "PROCESS",
+      "clues_tr": ["Bir işin veya olayın aşamaları.", "Adım adım ilerler.", "Sonuç elde etmek için takip edilir."],
+      "clues_en": ["Stages of a task or event.", "Proceeds step by step.", "Followed to achieve a result."]
+    },
+    {
+      "word_tr": "DERGİ",
+      "word_en": "MAGAZINE",
+      "clues_tr": ["Periyodik olarak yayınlanan basılı yayın.", "Genellikle belirli bir konu üzerine yoğunlaşır.", "Makale, röportaj ve fotoğraflar içerir."],
+      "clues_en": ["Printed publication released periodically.", "Usually focuses on a specific topic.", "Contains articles, interviews, and photos."]
+    },
+    {
+      "word_tr": "FULAR",
+      "word_en": "SCARF",
+      "clues_tr": ["Boyun veya başa takılan aksesuar.", "Kumaştan yapılır.", "Sıcak tutma veya süs amacıyla kullanılır."],
+      "clues_en": ["Accessory worn around the neck or head.", "Made of fabric.", "Used for warmth or decoration."]
+    },
+    {
+      "word_tr": "UÇURTMA",
+      "word_en": "KITE",
+      "clues_tr": ["Rüzgarla uçurulan oyuncak.", "Genellikle kağıt veya plastikten yapılır.", "Gökyüzünde süzülür."],
+      "clues_en": ["Toy flown with the wind.", "Usually made of paper or plastic.", "Glides in the sky."]
+    },
+    {
+      "word_tr": "NEVRESİM",
+      "word_en": "BEDDING",
+      "clues_tr": ["Yatak takımı.", "Yorgan, yastık kılıfı ve çarşaf içerir.", "Uyurken kullanılır."],
+      "clues_en": ["Set of bed linens.", "Includes duvet cover, pillowcase, and sheet.", "Used while sleeping."]
+    },
+    {
+      "word_tr": "PORTRE",
+      "word_en": "PORTRAIT",
+      "clues_tr": ["Bir kişinin yüzünü gösteren resim veya fotoğraf.", "Genellikle yüz detaylarına odaklanır.", "Sanat ve fotoğrafçılıkta sıkça kullanılır."],
+      "clues_en": ["Picture or photo showing a person's face.", "Usually focuses on facial details.", "Frequently used in art and photography."]
+    },
+    {
+      "word_tr": "AMSTERDAM",
+      "word_en": "AMSTERDAM",
+      "clues_tr": ["Hollanda'nın başkenti.", "Kanal sistemi ve bisiklet kültürü ile ünlüdür.", "Tarihi ve kültürel zenginlikleri vardır."],
+      "clues_en": ["Capital of the Netherlands.", "Famous for its canal system and bicycle culture.", "Has historical and cultural wealth."]
+    },
+    {
+      "word_tr": "MALUM",
+      "word_en": "KNOWN",
+      "clues_tr": ["Bilinen veya tanınan bilgi.", "Genel olarak kabul edilmiş gerçek.", "Herkesin farkında olduğu şey."],
+      "clues_en": ["Information that is known or recognized.", "Generally accepted truth.", "Something everyone is aware of."]
+    }
+  ]
+}

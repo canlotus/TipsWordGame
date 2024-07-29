@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "YERÇEKİMİ",
+      "word_en": "GRAVITY",
+      "clues_tr": ["Gezegenlerin kütlesel çekim kuvveti.", "Nesneleri yere çeker.", "Newton tarafından keşfedilmiştir."],
+      "clues_en": ["Massive attraction force of planets.", "Pulls objects to the ground.", "Discovered by Newton."]
+    },
+    {
+      "word_tr": "BUZUL",
+      "word_en": "GLACIER",
+      "clues_tr": ["Kutup bölgelerinde oluşan erimeyen kütle.", "Dağlarda ve kutuplarda bulunur.", "Yavaş yavaş hareket eder."],
+      "clues_en": ["Large ice mass.", "Found in mountains and polar regions.", "Moves slowly."]
+    },
+    {
+      "word_tr": "FATURA",
+      "word_en": "BILL",
+      "clues_tr": ["Yapılan harcamaların listesi.", "Ödeme talebini içerir.", "Elektrik, su gibi hizmetler için düzenlenir."],
+      "clues_en": ["List of expenses made.", "Contains payment request.", "Issued for services like electricity and water."]
+    },
+    {
+      "word_tr": "PAPYON",
+      "word_en": "BOWTIE",
+      "clues_tr": ["Göğüs hizasında bağlanan kravat türü.", "Genellikle resmi kıyafetlerle kullanılır.", "Papyon şeklinde bağlanır."],
+      "clues_en": ["Type of tie worn at the chest level.", "Usually worn with formal attire.", "Tied in a bow shape."]
+    },
+    {
+      "word_tr": "SİLİKON",
+      "word_en": "SILICONE",
+      "clues_tr": ["Esnek ve dayanıklı sentetik madde.", "Tıp ve inşaat sektöründe kullanılır.", "Sızdırmazlık ve yalıtım sağlar."],
+      "clues_en": ["Flexible and durable synthetic material.", "Used in medical and construction sectors.", "Provides sealing and insulation."]
+    },
+    {
+      "word_tr": "JÖLE",
+      "word_en": "JELLY",
+      "clues_tr": ["Tatlı ve jölemsi yiyecek.", "Meyve suyu ve şekerle yapılır.", "Tatlılarda ve kahvaltılarda kullanılır."],
+      "clues_en": ["Sweet and gelatinous food.", "Made with fruit juice and sugar.", "Used in desserts and breakfasts."]
+    },
+    {
+      "word_tr": "MASKARA",
+      "word_en": "MASCARA",
+      "clues_tr": ["Kirpikleri belirginleştiren makyaj malzemesi.", "Fırça ile sürülür.", "Göz makyajının önemli bir parçasıdır."],
+      "clues_en": ["Makeup item that defines eyelashes.", "Applied with a brush.", "An important part of eye makeup."]
+    },
+    {
+      "word_tr": "MALDİVLER",
+      "word_en": "MALDIVES",
+      "clues_tr": ["Hint Okyanusu'nda bir ada ülkesi.", "Beyaz kumlu plajları ve turkuaz suları ile ünlüdür.", "Balayı destinasyonu olarak popülerdir."],
+      "clues_en": ["Island country in the Indian Ocean.", "Famous for its white sandy beaches and turquoise waters.", "Popular as a honeymoon destination."]
+    },
+    {
+      "word_tr": "MERDİVEN",
+      "word_en": "STAIRS",
+      "clues_tr": ["Bir katı diğerine bağlayan yapı.", "Basamaklardan oluşur.", "Bina içi ve dışında kullanılır."],
+      "clues_en": ["Structure connecting one floor to another.", "Consists of steps.", "Used inside and outside buildings."]
+    },
+    {
+      "word_tr": "KİVİ",
+      "word_en": "KIWI",
+      "clues_tr": ["Küçük ve kahverengi tüylü meyve.", "Yeşil ve sulu iç kısmı vardır.", "Yeni Zelanda ile özdeşleşmiştir."],
+      "clues_en": ["Small and brown fuzzy fruit.", "Has a green and juicy interior.", "Associated with New Zealand."]
+    },
+    {
+      "word_tr": "DEMİRBAŞ",
+      "word_en": "FIXTURE",
+      "clues_tr": ["Bir yerde sürekli bulunan eşya.", "Demirbaş listesinde yer alır.", "Kurum veya kuruluşlara aittir."],
+      "clues_en": ["Item permanently located in one place.", "Listed in the inventory.", "Belongs to institutions or organizations."]
+    },
+    {
+      "word_tr": "DOKTOR",
+      "word_en": "DOCTOR",
+      "clues_tr": ["Sağlık hizmeti veren kişi.", "Tıp fakültesi mezunudur.", "Hastalıkları teşhis ve tedavi eder."],
+      "clues_en": ["Person providing healthcare.", "Graduate of medical school.", "Diagnoses and treats illnesses."]
+    },
+    {
+      "word_tr": "ŞEYTAN",
+      "word_en": "DEVIL",
+      "clues_tr": ["Kötülüğü simgeleyen varlık.", "Dinlerde kötülük kaynağı olarak tanımlanır.", "Kırmızı renk ve boynuzlarla tasvir edilir."],
+      "clues_en": ["Entity symbolizing evil.", "Described as the source of evil in religions.", "Depicted with red color and horns."]
+    },
+    {
+      "word_tr": "SARMAŞIK",
+      "word_en": "IVY",
+      "clues_tr": ["Tırmanıcı bitki.", "Duvarları ve ağaçları sarar.", "Dekoratif amaçla kullanılır."],
+      "clues_en": ["Climbing plant.", "Climbs walls and trees.", "Used for decorative purposes."]
+    },
+    {
+      "word_tr": "APSE",
+      "word_en": "ABSCESS",
+      "clues_tr": ["Enfeksiyon sonucu oluşan irin dolu şişlik.", "Ağrı ve kızarıklık ile belirir.", "Tıbbi müdahale gerektirir."],
+      "clues_en": ["Pus-filled swelling resulting from infection.", "Appears with pain and redness.", "Requires medical intervention."]
+    }
+  ]
+}

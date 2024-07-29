@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "RAGBİ",
+      "word_en": "RUGBY",
+      "clues_tr": ["Oval top ile oynanan spor.", "İki takım arasında el ve ayakla oynanır.", "Fiziksel temas içerir."],
+      "clues_en": ["Sport played with an oval ball.", "Played between two teams.", "Involves physical contact."]
+    },
+    {
+      "word_tr": "KAKTÜS",
+      "word_en": "CACTUS",
+      "clues_tr": ["Çöl bitkisi.", "Dikenleri vardır.", "Su depolayabilir."],
+      "clues_en": ["Desert plant.", "Has spines.", "Can store water."]
+    },
+    {
+      "word_tr": "KİLİSE",
+      "word_en": "CHURCH",
+      "clues_tr": ["Hristiyan ibadet yeri.", "Çan kulesi bulunur.", "Pazar günleri ayin yapılır."],
+      "clues_en": ["Christian place of worship.", "Has a bell tower.", "Mass is held on Sundays."]
+    },
+    {
+      "word_tr": "KARNIBAHAR",
+      "word_en": "CAULIFLOWER",
+      "clues_tr": ["Beyaz ve çiçekli sebze.", "Genellikle haşlanarak tüketilir.", "Turpgiller familyasındandır."],
+      "clues_en": ["White and flowering vegetable.", "Usually consumed boiled.", "Belongs to the mustard family."]
+    },
+    {
+      "word_tr": "BAŞAT",
+      "word_en": "DOMINANT",
+      "clues_tr": ["Baskın ve etkili olan.", "Diğerlerinden daha güçlü.", "Genetikte sıkça kullanılır."],
+      "clues_en": ["Prominent and effective.", "Stronger than others.", "Frequently used in genetics."]
+    },
+    {
+      "word_tr": "EFEKT",
+      "word_en": "EFFECT",
+      "clues_tr": ["Bir şeyin sonucu veya etkisi.", "Neden-sonuç ilişkisiyle ilgilidir.", "Görsel veya işitsel olabilir."],
+      "clues_en": ["Result or impact of something.", "Related to cause and effect.", "Can be visual or auditory."]
+    },
+    {
+      "word_tr": "DUBAİ",
+      "word_en": "DUBAI",
+      "clues_tr": ["Birleşik Arap Emirlikleri'nin en büyük şehri.", "Yüksek binaları ile ünlüdür.", "Turistik ve ticaret merkezidir."],
+      "clues_en": ["Largest city in the UAE.", "Famous for its tall buildings.", "Tourist and trade center."]
+    },
+    {
+      "word_tr": "FOSİL",
+      "word_en": "FOSSIL",
+      "clues_tr": ["Taşlaşmış hayvan veya bitki kalıntısı.", "Milyonlarca yıl önce yaşamış organizmaların izleri.", "Yer bilimlerinde incelenir."],
+      "clues_en": ["Petrified remains of animals or plants.", "Traces of organisms that lived millions of years ago.", "Studied in earth sciences."]
+    },
+    {
+      "word_tr": "NANOTEKNOLOJİ",
+      "word_en": "NANOTECHNOLOGY",
+      "clues_tr": ["Moleküler düzeyde mühendislik.", "Çok küçük ölçekte çalışır.", "İleri teknoloji alanıdır."],
+      "clues_en": ["Engineering at the molecular level.", "Works on a very small scale.", "An advanced technology field."]
+    },
+    {
+      "word_tr": "ASTEROİT",
+      "word_en": "ASTEROID",
+      "clues_tr": ["Uzayda dolaşan küçük gezegenimsi cisim.", "Güneş Sistemi'nde bulunur.", "Çarpışmalar sonucu krater oluşturabilir."],
+      "clues_en": ["Small planet-like body traveling in space.", "Found in the Solar System.", "Can create craters upon impact."]
+    },
+    {
+      "word_tr": "TERZİ",
+      "word_en": "TAILOR",
+      "clues_tr": ["Elbise diken kişi.", "Ölçü alarak giysi diker.", "Moda tasarımcılarıyla çalışabilir."],
+      "clues_en": ["Person who sews clothes.", "Sews clothes based on measurements.", "May work with fashion designers."]
+    },
+    {
+      "word_tr": "PARADOKS",
+      "word_en": "PARADOX",
+      "clues_tr": ["Görünüşte çelişkili ama doğru olan ifade.", "Çoğunlukla, çelişkili sonuçları olan.", "Felsefi ve bilimsel tartışmalarda yer alır."],
+      "clues_en": ["Statement that appears contradictory but is true.", "Challenges the mind.", "Appears in philosophical and scientific discussions."]
+    },
+    {
+      "word_tr": "YENİLENEBİLİR",
+      "word_en": "RENEWABLE",
+      "clues_tr": ["Doğal olarak tekrarlayabilir enerji.", "Güneş ve rüzgar enerjisi gibi.", "Sürdürülebilir enerji kaynağı."],
+      "clues_en": ["Resource that can renew itself.", "Like solar and wind energy.", "Sustainable energy source."]
+    },
+    {
+      "word_tr": "SİMETRİ",
+      "word_en": "SYMMETRY",
+      "clues_tr": ["İki tarafın aynılığı.", "Estetik ve denge ile ilgilidir.", "Matematik ve sanatta önemlidir."],
+      "clues_en": ["Mirror image of two sides.", "Related to aesthetics and balance.", "Important in math and art."]
+    },
+    {
+      "word_tr": "PSİKOLOJİ",
+      "word_en": "PSYCHOLOGY",
+      "clues_tr": ["İnsan davranışlarını inceleyen bilim dalı.", "Zihin ve ruh sağlığı ile ilgilidir.", "Psikologlar tarafından çalışılır."],
+      "clues_en": ["Science studying human behavior.", "Related to mental and emotional health.", "Studied by psychologists."]
+    }
+  ]
+}

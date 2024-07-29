@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "CÜRUF",
+      "word_en": "SLAG",
+      "clues_tr": ["Metal üretimi sırasında oluşan atık madde.", "Cüruf dökümü işleminde ayrılır.", "Çelik üretiminde yaygındır."],
+      "clues_en": ["Waste material formed during metal production.", "Separated in the slag dumping process.", "Common in steel production."]
+    },
+    {
+      "word_tr": "YARIMADA",
+      "word_en": "PENINSULA",
+      "clues_tr": ["Üç tarafı suyla çevrili kara parçası.", "Büyük kara kütlelerine bağlıdır.", "Doğal ve coğrafi öneme sahiptir."],
+      "clues_en": ["Landmass surrounded by water on three sides.", "Connected to large landmasses.", "Has natural and geographical significance."]
+    },
+    {
+      "word_tr": "UZAK",
+      "word_en": "DISTANT",
+      "clues_tr": ["Fiziksel olarak uzak bir konumda.", "Yakın olmayan.", "Ulaşılması zor veya uzun sürede ulaşılabilir."],
+      "clues_en": ["Located far away physically.", "Not close.", "Hard to reach or takes a long time to get to."]
+    },
+    {
+      "word_tr": "KOKARCA",
+      "word_en": "SKUNK",
+      "clues_tr": ["Kötü koku yayan hayvan.", "Siyah beyaz çizgili postu vardır.", "Tehdit edildiğinde koku püskürtür."],
+      "clues_en": ["Animal that emits a bad odor.", "Has black and white striped fur.", "Sprays odor when threatened."]
+    },
+    {
+      "word_tr": "TUZAK",
+      "word_en": "TRAP",
+      "clues_tr": ["Yakalamak veya zarar vermek için kullanılan düzenek.", "Avcılıkta ve güvenlikte kullanılır.", "Kapan veya tuzak olarak bilinir."],
+      "clues_en": ["Device used to catch or harm.", "Used in hunting and security.", "Known as a snare or trap."]
+    },
+    {
+      "word_tr": "COLUMBUS",
+      "word_en": "COLUMBUS",
+      "clues_tr": ["Amerika kıtasını keşfeden ünlü kaşif.", "1492 yılında İspanya'dan yola çıktı.", "Yeni Dünya'ya ulaşan ilk Avrupalılardan biridir."],
+      "clues_en": ["Famous explorer who discovered the Americas.", "Set sail from Spain in 1492.", "One of the first Europeans to reach the New World."]
+    },
+    {
+      "word_tr": "AVRUPA",
+      "word_en": "EUROPE",
+      "clues_tr": ["Bir kıta.", "Batıda Atlantik Okyanusu, doğuda Asya ile çevrili.", "Kültürel ve tarihi zenginlikleri ile ünlüdür."],
+      "clues_en": ["A continent.", "Surrounded by the Atlantic Ocean to the west and Asia to the east.", "Famous for its cultural and historical wealth."]
+    },
+    {
+      "word_tr": "ISLAK",
+      "word_en": "WET",
+      "clues_tr": ["Su veya nemle kaplı olan.", "Kuru olmayan.", "Yağmur veya su ile temas etmiş."],
+      "clues_en": ["Covered with water or moisture.", "Not dry.", "Has come into contact with rain or water."]
+    },
+    {
+      "word_tr": "DİYAFRAM",
+      "word_en": "DIAPHRAGM",
+      "clues_tr": ["Göğüs ve karın boşluklarını ayıran kas tabakası.", "Nefes almayı kontrol eder.", "Solunum sistemi için hayati önem taşır."],
+      "clues_en": ["Muscle layer separating the chest and abdominal cavities.", "Controls breathing.", "Vital for the respiratory system."]
+    },
+    {
+      "word_tr": "ELMAS",
+      "word_en": "DIAMOND",
+      "clues_tr": ["Değerli ve sert maden.", "Takı ve endüstride kullanılır.", "Karbondan oluşur."],
+      "clues_en": ["Precious and hard mineral.", "Used in jewelry and industry.", "Composed of carbon."]
+    },
+    {
+      "word_tr": "METAFİZİK",
+      "word_en": "METAPHYSICS",
+      "clues_tr": ["Fizik ötesi varlıkları ve olguları inceleyen felsefe dalı.", "Gerçeklik, varoluş ve zaman konularını araştırır.", "Aristoteles'in önemli çalışmaları vardır."],
+      "clues_en": ["Branch of philosophy studying beyond physical entities and phenomena.", "Investigates reality, existence, and time.", "Has significant works by Aristotle."]
+    },
+    {
+      "word_tr": "GEYİK",
+      "word_en": "DEER",
+      "clues_tr": ["Ormanlarda yaşayan otçul memeli hayvan.", "Erkeklerinin boynuzları vardır.", "Sürüler halinde gezerler."],
+      "clues_en": ["Herbivorous mammal living in forests.", "Males have antlers.", "Roam in herds."]
+    },
+    {
+      "word_tr": "KANVAS",
+      "word_en": "CANVAS",
+      "clues_tr": ["Resim yapmak için kullanılan kalın kumaş.", "Tablo ve çadır yapımında kullanılır.", "Güçlü ve dayanıklıdır."],
+      "clues_en": ["Thick fabric used for painting.", "Used in making paintings and tents.", "Strong and durable."]
+    },
+    {
+      "word_tr": "LİMON",
+      "word_en": "LEMON",
+      "clues_tr": ["Sarı renkli meyve.", "Ekşi ve ferahlatıcı bir tadı vardır.", "C vitamini deposudur."],
+      "clues_en": ["Yellow fruit.", "Has a sour and refreshing taste.", "Rich in vitamin C."]
+    },
+    {
+      "word_tr": "MANOLYA",
+      "word_en": "MAGNOLIA",
+      "clues_tr": ["Büyük ve gösterişli çiçekleri olan ağaç.", "Süs bitkisi olarak yetiştirilir.", "Baharda çiçek açar."],
+      "clues_en": ["Tree with large and showy flowers.", "Cultivated as an ornamental plant.", "Blooms in spring."]
+    }
+  ]
+}

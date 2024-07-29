@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "DURUM",
+      "word_en": "SITUATION",
+      "clues_tr": ["Olayların veya koşulların mevcut hali.", "Bir olayı veya durumu tanımlar.", "Sosyal veya ekonomik olabilir."],
+      "clues_en": ["The current state of affairs or conditions.", "Defines an event or condition.", "Can be social or economic."]
+    },
+    {
+      "word_tr": "PAPATYA",
+      "word_en": "DAISY",
+      "clues_tr": ["Beyaz yapraklı ve sarı merkezli çiçek.", "Doğada sıkça bulunur.", "Çay olarak da tüketilir."],
+      "clues_en": ["Flower with white petals and yellow center.", "Commonly found in nature.", "Also consumed as tea."]
+    },
+    {
+      "word_tr": "ZEPLİN",
+      "word_en": "ZEPPELIN",
+      "clues_tr": ["Havada süzülen büyük hava aracı.", "Helyum veya hidrojen gazı ile doldurulur.", "Gösteri ve reklam amaçlı kullanılır."],
+      "clues_en": ["Large airship that floats in the air.", "Filled with helium or hydrogen gas.", "Used for shows and advertising."]
+    },
+    {
+      "word_tr": "PAZARTESİ",
+      "word_en": "MONDAY",
+      "clues_tr": ["Haftanın ilk iş günü.", "Çoğu insan için tatilin bittiği gün.", "Çalışma haftasının başlangıcı."],
+      "clues_en": ["First working day of the week.", "Day when most people's holidays end.", "Start of the work week."]
+    },
+    {
+      "word_tr": "APARAT",
+      "word_en": "APPARATUS",
+      "clues_tr": ["Belirli bir iş için kullanılan alet veya cihaz.", "Laboratuvarlarda sıkça kullanılır.", "Bilimsel deneylerde yer alır."],
+      "clues_en": ["Tool or device used for a specific task.", "Frequently used in laboratories.", "Appears in scientific experiments."]
+    },
+    {
+      "word_tr": "KARDEŞ",
+      "word_en": "SIBLING",
+      "clues_tr": ["Aynı anne babadan olan kişi.", "Kardeş sevgisi derin ve özeldir.", "Aile içi ilişkilerde önemli bir yeri vardır."],
+      "clues_en": ["Person born from the same parents.", "Sibling love is deep and special.", "Has an important place in family relations."]
+    },
+    {
+      "word_tr": "SERENAD",
+      "word_en": "SERENADE",
+      "clues_tr": ["Sevgi veya övgü için yapılan müzikal performans.", "Genellikle açık havada yapılır.", "Aşk şarkılarıyla ilişkilendirilir."],
+      "clues_en": ["Musical performance done for love or praise.", "Usually performed outdoors.", "Associated with love songs."]
+    },
+    {
+      "word_tr": "PRİZMA",
+      "word_en": "PRISM",
+      "clues_tr": ["Işığı renklerine ayıran optik araç.", "Geometri derslerinde kullanılır.", "Üçgen veya dikdörtgen şekilli olabilir."],
+      "clues_en": ["Optical device that splits light into colors.", "Used in geometry lessons.", "Can be triangular or rectangular shaped."]
+    },
+    {
+      "word_tr": "REFAH",
+      "word_en": "WELFARE",
+      "clues_tr": ["İyi yaşam ve mutluluk hali.", "Ekonomik ve sosyal güvenliği ifade eder.", "Toplumun genel refahını kapsar."],
+      "clues_en": ["State of good living and happiness.", "Expresses economic and social security.", "Covers the general welfare of society."]
+    },
+    {
+      "word_tr": "KIRMIZI",
+      "word_en": "RED",
+      "clues_tr": ["Birincil renklerden biri.", "Kan ve ateşin rengidir.", "Duygusal yoğunluk ve tehlike ile ilişkilendirilir."],
+      "clues_en": ["One of the primary colors.", "Color of blood and fire.", "Associated with emotional intensity and danger."]
+    },
+    {
+      "word_tr": "MAVİ",
+      "word_en": "BLUE",
+      "clues_tr": ["Gökyüzünün ve denizin rengidir.", "Huzur ve dinginlik ile ilişkilendirilir.", "Soğuk renk kategorisindedir."],
+      "clues_en": ["Color of the sky and sea.", "Associated with peace and tranquility.", "Belongs to the cool color category."]
+    },
+    {
+      "word_tr": "YEŞİL",
+      "word_en": "GREEN",
+      "clues_tr": ["Doğanın ve bitkilerin rengidir.", "Canlılık ve tazelik ile ilişkilendirilir.", "Sıcak ve soğuk renklerin ortasında yer alır."],
+      "clues_en": ["Color of nature and plants.", "Associated with vitality and freshness.", "Located between warm and cool colors."]
+    },
+    {
+      "word_tr": "SARI",
+      "word_en": "YELLOW",
+      "clues_tr": ["Güneşin ve ışığın rengidir.", "Neşe ve enerji ile ilişkilendirilir.", "Sıcak renkler arasındadır."],
+      "clues_en": ["Color of the sun and light.", "Associated with joy and energy.", "Among the warm colors."]
+    },
+    {
+      "word_tr": "MOR",
+      "word_en": "PURPLE",
+      "clues_tr": ["Asalet ve gizemin rengidir.", "Kırmızı ve mavinin karışımıdır.", "Sanatta ve dekorasyonda sıkça kullanılır."],
+      "clues_en": ["Color of nobility and mystery.", "A mix of red and blue.", "Frequently used in art and decoration."]
+    },
+    {
+      "word_tr": "TURUNCU",
+      "word_en": "ORANGE",
+      "clues_tr": ["Kırmızı ve sarının karışımı bir renktir.", "Canlılık ve sıcaklık ile ilişkilendirilir.", "Turunçgillerin rengidir."],
+      "clues_en": ["Color that is a mix of red and yellow.", "Associated with liveliness and warmth.", "Color of citrus fruits."]
+    }
+  ]
+}

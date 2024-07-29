@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "AMPUL",
+      "word_en": "BULB",
+      "clues_tr": ["Işık yayan elektrikli cihaz.", "Lambalarda kullanılır.", "Çeşitli şekil ve boyutlarda olabilir."],
+      "clues_en": ["Electrical device emitting light.", "Used in lamps.", "Can be of various shapes and sizes."]
+    },
+    {
+      "word_tr": "PARAVAN",
+      "word_en": "SCREEN",
+      "clues_tr": ["Alanı bölmek veya gizlemek için kullanılan yapı.", "Dekoratif olabilir.", "Ofislerde ve evlerde kullanılır."],
+      "clues_en": ["Structure used to divide or conceal an area.", "Can be decorative.", "Used in offices and homes."]
+    },
+    {
+      "word_tr": "TELESKOP",
+      "word_en": "TELESCOPE",
+      "clues_tr": ["Uzak gök cisimlerini gözlemlemek için kullanılan cihaz.", "Astronomlar tarafından kullanılır.", "Mercekler ve aynalar içerir."],
+      "clues_en": ["Device used to observe distant celestial objects.", "Used by astronomers.", "Contains lenses and mirrors."]
+    },
+    {
+      "word_tr": "REKTÖR",
+      "word_en": "RECTOR",
+      "clues_tr": ["Üniversite veya yüksek öğrenim kurumunun başkanı.", "Akademik ve idari liderdir.", "Seçimle göreve gelir."],
+      "clues_en": ["President of a university or higher education institution.", "Academic and administrative leader.", "Comes to office by election."]
+    },
+    {
+      "word_tr": "İSTANBUL",
+      "word_en": "ISTANBUL",
+      "clues_tr": ["Türkiye'nin en büyük şehri.", "Boğaziçi ve tarihi yarımada ile ünlüdür.", "Avrupa ve Asya kıtalarını birleştirir."],
+      "clues_en": ["Largest city in Turkey.", "Famous for the Bosphorus and historic peninsula.", "Connects Europe and Asia."]
+    },
+    {
+      "word_tr": "PİZZA",
+      "word_en": "PIZZA",
+      "clues_tr": ["Yuvarlak ve dilimlenmiş yiyecek.", "Hamur üzerine peynir, sos ve diğer malzemeler konur.", "İtalyan mutfağına aittir."],
+      "clues_en": ["Round and sliced food.", "Dough topped with cheese, sauce, and other ingredients.", "Belongs to Italian cuisine."]
+    },
+    {
+      "word_tr": "CETVEL",
+      "word_en": "RULER",
+      "clues_tr": ["Uzunluk ölçmek için kullanılan araç.", "Çeşitli boyutlarda olabilir.", "Okul ve ofislerde sıkça kullanılır."],
+      "clues_en": ["Tool used for measuring length.", "Can be of various sizes.", "Frequently used in schools and offices."]
+    },
+    {
+      "word_tr": "AKIM",
+      "word_en": "CURRENT",
+      "clues_tr": ["Elektrik veya suyun hareketi.", "Fizikte önemli bir kavramdır.", "Dalgaların yönünü belirler."],
+      "clues_en": ["Movement of electricity or water.", "An important concept in physics.", "Determines the direction of waves."]
+    },
+    {
+      "word_tr": "NEDİME",
+      "word_en": "BRIDESMAID",
+      "clues_tr": ["Gelinle birlikte olan arkadaş.", "Düğünlerde gelinin yanında durur.", "Genellikle özel kıyafetler giyer."],
+      "clues_en": ["Friend who is with the bride.", "Stands by the bride at weddings.", "Usually wears special outfits."]
+    },
+    {
+      "word_tr": "ARJANTİN",
+      "word_en": "ARGENTINA",
+      "clues_tr": ["Güney Amerika'da bir ülke.", "Tango ve futbol ile ünlüdür.", "Başkent Buenos Aires'tir."],
+      "clues_en": ["Country in South America.", "Famous for tango and football.", "Capital is Buenos Aires."]
+    },
+    {
+      "word_tr": "GALİLEO",
+      "word_en": "GALILEO",
+      "clues_tr": ["Ünlü İtalyan astronom ve fizikçi.", "Teleskobun öncüsü olarak bilinir.", "Güneş merkezli evren teorisini savunmuştur."],
+      "clues_en": ["Famous Italian astronomer and physicist.", "Known as the pioneer of the telescope.", "Advocated the heliocentric theory of the universe."]
+    },
+    {
+      "word_tr": "KUMANDA",
+      "word_en": "REMOTE",
+      "clues_tr": ["Uzaktan kontrol sağlayan cihaz.", "Televizyon ve diğer elektronik cihazlar için kullanılır.", "Kablosuz bağlantı ile çalışır."],
+      "clues_en": ["Device providing remote control.", "Used for television and other electronic devices.", "Operates with wireless connection."]
+    },
+    {
+      "word_tr": "KIRLANGIÇ",
+      "word_en": "SWALLOW",
+      "clues_tr": ["Küçük ve zarif uçan kuş.", "Uzun kanatları ve çatallı kuyruğu vardır.", "Güney Amerika'ya göç eder."],
+      "clues_en": ["Small and graceful flying bird.", "Has long wings and forked tail.", "Migrates to South America."]
+    },
+    {
+      "word_tr": "AKORDİYON",
+      "word_en": "ACCORDION",
+      "clues_tr": ["Kenarlarında tuşlar ve düğmeler olan müzik aleti.", "Çekilerek ve sıkılarak çalınır.", "Folk müziğinde yaygın olarak kullanılır."],
+      "clues_en": ["Musical instrument with keys and buttons on the sides.", "Played by pulling and squeezing.", "Commonly used in folk music."]
+    },
+    {
+      "word_tr": "SAHNE",
+      "word_en": "STAGE",
+      "clues_tr": ["Tiyatro veya konser alanında performans sergilenen yer.", "Sanatçılar ve oyuncular burada performans sergiler.", "Seyirciler tarafından izlenir."],
+      "clues_en": ["Place where performances are held in theater or concert venues.", "Artists and actors perform here.", "Watched by the audience."]
+    }
+  ]
+}

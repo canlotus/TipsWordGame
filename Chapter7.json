@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "YELKEN",
+      "word_en": "SAIL",
+      "clues_tr": ["Rüzgarla hareket eden gemi parçası.", "Yelkenli teknelerde kullanılır.", "Kumaş veya plastikten yapılır."],
+      "clues_en": ["Ship part that moves with the wind.", "Used in sailboats.", "Made of fabric or plastic."]
+    },
+    {
+      "word_tr": "İGLO",
+      "word_en": "IGLOO",
+      "clues_tr": ["Eskimo ev tipi.", "Kardan veya buzdan yapılır.", "Kutup bölgelerinde kullanılır."],
+      "clues_en": ["Eskimo house type.", "Made of snow or ice.", "Used in polar regions."]
+    },
+    {
+      "word_tr": "NÜKLEER",
+      "word_en": "NUCLEAR",
+      "clues_tr": ["Atom çekirdeğinden elde edilir.", "Enerji üretiminde kullanılır.", "Büyük güç ve tehlike içerir."],
+      "clues_en": ["Related to the atomic nucleus.", "Used in energy production.", "Contains great power and danger."]
+    },
+    {
+      "word_tr": "TANGO",
+      "word_en": "TANGO",
+      "clues_tr": ["Arjantin kökenli bir dans.", "Duygusal ve tutkulu hareketleri vardır.", "Çiftler tarafından yapılır."],
+      "clues_en": ["Dance originating from Argentina.", "Has emotional and passionate movements.", "Performed by couples."]
+    },
+    {
+      "word_tr": "LONDRA",
+      "word_en": "LONDON",
+      "clues_tr": ["İngiltere'nin başkenti.", "Big Ben ve London Eye ile ünlüdür.", "Thames Nehri kıyısında yer alır."],
+      "clues_en": ["Capital of England.", "Famous for Big Ben and the London Eye.", "Located on the River Thames."]
+    },
+    {
+      "word_tr": "MÜZE",
+      "word_en": "MUSEUM",
+      "clues_tr": ["Sanat ve tarih eserlerinin sergilendiği yer.", "Ziyaretçiler bilgi ve kültür kazanır.", "Eğitim ve araştırma merkezidir."],
+      "clues_en": ["Place where art and historical artifacts are exhibited.", "Visitors gain knowledge and culture.", "Center for education and research."]
+    },
+    {
+      "word_tr": "MEDUSA",
+      "word_en": "MEDUSA",
+      "clues_tr": ["Yunan mitolojisinde yılan saçlı kadın.", "Gözlerine bakanı taşa çevirir.", "Perseus tarafından öldürülmüştür."],
+      "clues_en": ["Snake-haired woman in Greek mythology.", "Turns those who look into her eyes to stone.", "Killed by Perseus."]
+    },
+    {
+      "word_tr": "KÖPRÜ",
+      "word_en": "BRIDGE",
+      "clues_tr": ["İki kara parçasını birleştiren yapı.", "Nehir veya vadi üzerine inşa edilir.", "Trafik akışını sağlar."],
+      "clues_en": ["Structure connecting two land masses.", "Built over a river or valley.", "Facilitates traffic flow."]
+    },
+    {
+      "word_tr": "LİDER",
+      "word_en": "LEADER",
+      "clues_tr": ["Bir grup veya topluluğu yöneten kişi.", "Karar verme yetkisine sahiptir.", "İlham ve motivasyon sağlar."],
+      "clues_en": ["Person who manages a group or community.", "Has the authority to make decisions.", "Provides inspiration and motivation."]
+    },
+    {
+      "word_tr": "ŞEKERLEME",
+      "word_en": "CANDY",
+      "clues_tr": ["Tatlı ve şekerli atıştırmalık.", "Çocuklar tarafından çok sevilir.", "Renkli ve farklı tatlarda olabilir."],
+      "clues_en": ["Sweet and sugary snack.", "Loved by children.", "Can be colorful and of various flavors."]
+    },
+    {
+      "word_tr": "PİRAMİT",
+      "word_en": "PYRAMID",
+      "clues_tr": ["Üçgen prizma şeklinde antik yapı.", "Mısır'da firavunların mezarı olarak kullanılmıştır.", "Dünya harikalarından biridir."],
+      "clues_en": ["Ancient structure in the shape of a triangular prism.", "Used as tombs for pharaohs in Egypt.", "One of the wonders of the world."]
+    },
+    {
+      "word_tr": "KANGURU",
+      "word_en": "KANGAROO",
+      "clues_tr": ["Avustralya'ya özgü sıçrayan memeli.", "Kesesi vardır.", "Uzun ve güçlü arka bacakları bulunur."],
+      "clues_en": ["Jumping mammal native to Australia.", "Has a pouch.", "Has long and powerful hind legs."]
+    },
+    {
+      "word_tr": "PANDOMİM",
+      "word_en": "PANTOMIME",
+      "clues_tr": ["Konuşmadan yapılan tiyatro.", "Mimik ve jestlerle anlatılır.", "Sessiz oyunlar içerir."],
+      "clues_en": ["Theater performed without speaking.", "Conveyed through mimics and gestures.", "Includes silent plays."]
+    },
+    {
+      "word_tr": "LAVANTA",
+      "word_en": "LAVENDER",
+      "clues_tr": ["Hoş kokulu mor çiçek.", "Kozmetikte ve parfüm yapımında kullanılır.", "Rahatlatıcı etkisi vardır."],
+      "clues_en": ["Pleasant-smelling purple flower.", "Used in cosmetics and perfume making.", "Has a relaxing effect."]
+    },
+    {
+      "word_tr": "KİLİT",
+      "word_en": "LOCK",
+      "clues_tr": ["Kapıları ve kasaları güvence altına almak için kullanılır.", "Anahtar veya şifre ile açılır.", "Güvenlik amacı taşır."],
+      "clues_en": ["Used to secure doors and safes.", "Opened with a key or combination.", "Serves a security purpose."]
+    }
+  ]
+}

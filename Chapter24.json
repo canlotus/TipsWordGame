@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "ORİGAMİ",
+      "word_en": "ORIGAMI",
+      "clues_tr": ["Kağıt katlama sanatı.", "Japon kökenlidir.", "Hayvan ve çiçek figürleri yapılır."],
+      "clues_en": ["The art of paper folding.", "Originates from Japan.", "Figures of animals and flowers are made."]
+    },
+    {
+      "word_tr": "MOSKOVA",
+      "word_en": "MOSCOW",
+      "clues_tr": ["Rusya'nın başkenti.", "Kızıl Meydan ve Kremlin Sarayı ile ünlüdür.", "Soğuk iklimi vardır."],
+      "clues_en": ["Capital of Russia.", "Famous for Red Square and the Kremlin Palace.", "Has a cold climate."]
+    },
+    {
+      "word_tr": "DENİZATI",
+      "word_en": "SEAHORSE",
+      "clues_tr": ["Denizlerde yaşayan küçük balık.", "Baş kısmı at başına benzer.", "Dikey olarak yüzer."],
+      "clues_en": ["Small fish living in seas.", "Head resembles a horse's head.", "Swims vertically."]
+    },
+    {
+      "word_tr": "İTALYA",
+      "word_en": "ITALY",
+      "clues_tr": ["Güney Avrupa'da bir ülke.", "Pizza ve makarnası ile ünlüdür.", "Başkent Roma'dır."],
+      "clues_en": ["Country in southern Europe.", "Famous for its pizza and pasta.", "Capital is Rome."]
+    },
+    {
+      "word_tr": "HİDROJEN",
+      "word_en": "HYDROGEN",
+      "clues_tr": ["En hafif ve en bol bulunan element.", "Renksiz ve kokusuz gaz.", "Su molekülünde bulunur."],
+      "clues_en": ["The lightest and most abundant element.", "Colorless and odorless gas.", "Found in water molecules."]
+    },
+    {
+      "word_tr": "DALGAKIRAN",
+      "word_en": "BREAKWATER",
+      "clues_tr": ["Dalgaların kıyıya vurmasını önleyen yapı.", "Limanları korur.", "Deniz kenarlarında bulunur."],
+      "clues_en": ["Structure preventing waves from hitting the shore.", "Protects harbors.", "Found along coastlines."]
+    },
+    {
+      "word_tr": "PENİSİLİN",
+      "word_en": "PENICILLIN",
+      "clues_tr": ["Bakteriyel enfeksiyonları tedavi eden antibiyotik.", "Alexander Fleming tarafından keşfedilmiştir.", "Tıp alanında devrim yaratmıştır."],
+      "clues_en": ["Antibiotic treating bacterial infections.", "Discovered by Alexander Fleming.", "Revolutionized the medical field."]
+    },
+    {
+      "word_tr": "EFSANE",
+      "word_en": "LEGEND",
+      "clues_tr": ["Gerçek veya hayali olayları anlatan hikaye.", "Tarihi veya kültürel önemi vardır.", "Kahramanlar ve tanrılar içerir."],
+      "clues_en": ["Story narrating real or imaginary events.", "Has historical or cultural significance.", "Includes heroes and gods."]
+    },
+    {
+      "word_tr": "FIRTINA",
+      "word_en": "STORM",
+      "clues_tr": ["Şiddetli rüzgar ve yağışla birlikte gelen hava olayı.", "Gök gürültüsü ve yıldırım içerebilir.", "Deniz ve kara üzerinde oluşur."],
+      "clues_en": ["Weather event with strong wind and rain.", "May include thunder and lightning.", "Occurs over sea and land."]
+    },
+    {
+      "word_tr": "NİLÜFER",
+      "word_en": "LOTUS",
+      "clues_tr": ["Su yüzeyinde yüzen çiçek.", "Genellikle göletlerde bulunur.", "Beyaz, pembe veya mavi renklerde olabilir."],
+      "clues_en": ["Flower floating on water surfaces.", "Usually found in ponds.", "Can be white, pink, or blue."]
+    },
+    {
+      "word_tr": "OKYANUS",
+      "word_en": "OCEAN",
+      "clues_tr": ["Dünyanın büyük su kütleleri.", "Denizlerden daha büyüktür.", "Kıtalar arasında bulunur."],
+      "clues_en": ["Large water bodies of the world.", "Larger than seas.", "Located between continents."]
+    },
+    {
+      "word_tr": "KASTANYET",
+      "word_en": "CASTANET",
+      "clues_tr": ["Elle çalınan ritim aracı.", "İspanyol danslarında kullanılır.", "Ahşap veya plastikten yapılır."],
+      "clues_en": ["Handheld rhythm instrument.", "Used in Spanish dances.", "Made of wood or plastic."]
+    },
+    {
+      "word_tr": "PERGEL",
+      "word_en": "COMPASS",
+      "clues_tr": ["Daire çizmek için kullanılan araç.", "Matematik derslerinde kullanılır.", "İki kollu yapıdadır."],
+      "clues_en": ["Tool used to draw circles.", "Used in math classes.", "Has a two-arm structure."]
+    },
+    {
+      "word_tr": "HEMŞİRE",
+      "word_en": "NURSE",
+      "clues_tr": ["Hasta bakımından sorumlu sağlık çalışanı.", "Hastanelerde ve kliniklerde çalışır.", "Doktorlara yardımcı olur."],
+      "clues_en": ["Healthcare worker responsible for patient care.", "Works in hospitals and clinics.", "Assists doctors."]
+    },
+    {
+      "word_tr": "KUMSAL",
+      "word_en": "BEACH",
+      "clues_tr": ["Deniz kenarında bulunan kumlu alan.", "Güneşlenmek ve yüzmek için kullanılır.", "Tatilcilerin tercih ettiği yerdir."],
+      "clues_en": ["Sandy area by the sea.", "Used for sunbathing and swimming.", "Preferred spot for vacationers."]
+    }
+  ]
+}

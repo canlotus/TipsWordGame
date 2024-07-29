@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "MONARŞİ",
+      "word_en": "MONARCHY",
+      "clues_tr": ["Kraliyet ailesi tarafından yönetilen hükümet sistemi.", "Krallar ve kraliçeler başında bulunur.", "Tarih boyunca birçok ülke tarafından benimsenmiştir."],
+      "clues_en": ["Government system ruled by a royal family.", "Kings and queens are at the head.", "Adopted by many countries throughout history."]
+    },
+    {
+      "word_tr": "ÇİNCE",
+      "word_en": "CHINESE",
+      "clues_tr": ["Çin'de konuşulan dil.", "Mandarin ve Kantonca gibi lehçeleri vardır.", "Dünyanın en çok konuşulan dillerindendir."],
+      "clues_en": ["Language spoken in China.", "Has dialects like Mandarin and Cantonese.", "One of the most spoken languages in the world."]
+    },
+    {
+      "word_tr": "ÖRÜMCEK",
+      "word_en": "SPIDER",
+      "clues_tr": ["Sekiz bacaklı eklem bacaklı.", "Ağ yaparak avlanır.", "Bazı türleri zehirli olabilir."],
+      "clues_en": ["Eight-legged arthropod.", "Hunts by making webs.", "Some species can be venomous."]
+    },
+    {
+      "word_tr": "PORTAKAL",
+      "word_en": "ORANGE",
+      "clues_tr": ["Turuncu renkli narenciye meyvesi.", "C vitamini deposudur.", "Suyu sıkılarak içilebilir."],
+      "clues_en": ["Orange-colored citrus fruit.", "Rich in vitamin C.", "Can be juiced."]
+    },
+    {
+      "word_tr": "MAZOT",
+      "word_en": "DIESEL",
+      "clues_tr": ["Dizel motorlar için yakıt.", "Petrol rafinerilerinde üretilir.", "Kamyon ve otobüslerde yaygın olarak kullanılır."],
+      "clues_en": ["Fuel for diesel engines.", "Produced in oil refineries.", "Commonly used in trucks and buses."]
+    },
+    {
+      "word_tr": "KAZI",
+      "word_en": "EXCAVATION",
+      "clues_tr": ["Yer altındaki kalıntıları çıkarma işlemi.", "Arkeologlar tarafından yapılır.", "Tarihi eserler ortaya çıkarılır."],
+      "clues_en": ["Process of removing underground remains.", "Performed by archaeologists.", "Historical artifacts are unearthed."]
+    },
+    {
+      "word_tr": "AVAKADO",
+      "word_en": "AVOCADO",
+      "clues_tr": ["Yeşil kabuklu ve kremamsı bir meyve.", "Salatalarda ve guacamole'de kullanılır.", "Sağlıklı yağlar içerir."],
+      "clues_en": ["Green-skinned and creamy fruit.", "Used in salads and guacamole.", "Contains healthy fats."]
+    },
+    {
+      "word_tr": "KARTAL",
+      "word_en": "EAGLE",
+      "clues_tr": ["Büyük ve güçlü yırtıcı kuş.", "Keskin gözleri vardır.", "Yüksek dağlarda ve ormanlarda yaşar."],
+      "clues_en": ["Large and powerful bird of prey.", "Has sharp eyesight.", "Lives in high mountains and forests."]
+    },
+    {
+      "word_tr": "BALON",
+      "word_en": "BALLOON",
+      "clues_tr": ["Helyum veya hava ile doldurulan esnek madde.", "Partilerde ve kutlamalarda kullanılır.", "Çeşitli renk ve şekillerde olabilir."],
+      "clues_en": ["Flexible material filled with helium or air.", "Used in parties and celebrations.", "Can be in various colors and shapes."]
+    },
+    {
+      "word_tr": "BAKAN",
+      "word_en": "MINISTER",
+      "clues_tr": ["Bir hükümetin kabine üyesi.", "Belirli bir bakanlığı yönetir.", "Kamu politikalarını uygular."],
+      "clues_en": ["Cabinet member of a government.", "Manages a specific ministry.", "Implements public policies."]
+    },
+    {
+      "word_tr": "TÜFEK",
+      "word_en": "RIFLE",
+      "clues_tr": ["Uzun namlulu ateşli silah.", "Askeri ve avcılık amaçlı kullanılır.", "Mermi ateşler."],
+      "clues_en": ["Long-barreled firearm.", "Used for military and hunting purposes.", "Fires bullets."]
+    },
+    {
+      "word_tr": "YELKOVAN",
+      "word_en": "MINUTEHAND",
+      "clues_tr": ["Saatin dakikayı gösteren ibresi.", "Saat kadranında hareket eder.", "Her 60 dakikada bir tam tur atar."],
+      "clues_en": ["Hand showing the minute on a clock.", "Moves on the clock face.", "Makes a full turn every 60 minutes."]
+    },
+    {
+      "word_tr": "OLAY",
+      "word_en": "EVENT",
+      "clues_tr": ["Belirli bir zamanda gerçekleşen şey.", "Tarihi veya önemsiz olabilir.", "Haber değeri taşıyabilir."],
+      "clues_en": ["Thing that happens at a specific time.", "Can be historical or trivial.", "May have news value."]
+    },
+    {
+      "word_tr": "BARBEKÜ",
+      "word_en": "BARBECUE",
+      "clues_tr": ["Açık havada et pişirme yöntemi.", "Mangal veya ızgara kullanılır.", "Etler ve sebzeler ızgarada pişirilir."],
+      "clues_en": ["Method of cooking meat outdoors.", "Uses a grill or barbecue.", "Meats and vegetables are grilled."]
+    },
+    {
+      "word_tr": "BAHÇIVAN",
+      "word_en": "GARDENER",
+      "clues_tr": ["Bahçe işleriyle uğraşan kişi.", "Bitkileri eker, sulama ve bakım yapar.", "Çiçekler, sebzeler ve ağaçlarla ilgilenir."],
+      "clues_en": ["Person engaged in gardening.", "Plants, waters, and maintains plants.", "Takes care of flowers, vegetables, and trees."]
+    }
+  ]
+}

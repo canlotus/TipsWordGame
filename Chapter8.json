@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "PAMUK",
+      "word_en": "COTTON",
+      "clues_tr": ["Beyaz ve yumuşak bitki lifi.", "Tekstil endüstrisinde kullanılır.", "Tarlalarda yetişir."],
+      "clues_en": ["White and soft plant fiber.", "Used in the textile industry.", "Grown in fields."]
+    },
+    {
+      "word_tr": "FERMUAR",
+      "word_en": "ZIPPER",
+      "clues_tr": ["Giysilerde açma-kapama mekanizması.", "Dişli ve sürgülü yapıdadır.", "Pantolon ve ceketlerde bulunur."],
+      "clues_en": ["Opening-closing mechanism in clothes.", "Has a toothed and sliding structure.", "Found in pants and jackets."]
+    },
+    {
+      "word_tr": "SAKSI",
+      "word_en": "POT",
+      "clues_tr": ["Bitki yetiştirmek için kullanılan kap.", "Toprak ve su konur.", "Balkon ve bahçelerde bulunur."],
+      "clues_en": ["Container used for growing plants.", "Holds soil and water.", "Found on balconies and in gardens."]
+    },
+    {
+      "word_tr": "PLATO",
+      "word_en": "PLATEAU",
+      "clues_tr": ["Yüksek ve düz arazi.", "Dağların tepesinde bulunur.", "Genellikle tarım için kullanılır."],
+      "clues_en": ["High and flat land.", "Found on top of mountains.", "Often used for agriculture."]
+    },
+    {
+      "word_tr": "TERMOMETRE",
+      "word_en": "THERMOMETER",
+      "clues_tr": ["Sıcaklık ölçer.", "Cıva veya dijital ekranlı olabilir.", "Tıp ve meteorolojide kullanılır."],
+      "clues_en": ["Measures temperature.", "Can be mercury or digital.", "Used in medicine and meteorology."]
+    },
+    {
+      "word_tr": "VESTİYER",
+      "word_en": "WARDROBE",
+      "clues_tr": ["Giysi ve aksesuarları saklamak için kullanılan mobilya.", "Dolap kapakları vardır.", "Yatak odasında bulunur."],
+      "clues_en": ["Furniture used to store clothes and accessories.", "Has cupboard doors.", "Found in the bedroom."]
+    },
+    {
+      "word_tr": "KEPENK",
+      "word_en": "SHUTTER",
+      "clues_tr": ["Pencere veya kapıyı koruyan kapak.", "Genellikle metal veya ahşaptan yapılır.", "Güvenlik ve gizlilik sağlar."],
+      "clues_en": ["Cover protecting a window or door.", "Usually made of metal or wood.", "Provides security and privacy."]
+    },
+    {
+      "word_tr": "BIYOM",
+      "word_en": "BIOME",
+      "clues_tr": ["Belli bir iklim ve ekosisteme sahip geniş alan.", "Bitki ve hayvan türleri barındırır.", "Orman, çöl, tundra gibi örnekleri vardır."],
+      "clues_en": ["Large area with a specific climate and ecosystem.", "Hosts plant and animal species.", "Examples include forests, deserts, and tundras."]
+    },
+    {
+      "word_tr": "BANGKOK",
+      "word_en": "BANGKOK",
+      "clues_tr": ["Tayland'ın başkenti.", "Tropikal iklimi ve tapınakları ile ünlüdür.", "Chao Phraya Nehri kıyısında yer alır."],
+      "clues_en": ["Capital of Thailand.", "Famous for its tropical climate and temples.", "Located on the Chao Phraya River."]
+    },
+    {
+      "word_tr": "KRATER",
+      "word_en": "CRATER",
+      "clues_tr": ["Volkanik patlama veya meteor çarpması sonucu oluşan çukur.", "Ay yüzeyinde bolca bulunur.", "Yer bilimlerinde incelenir."],
+      "clues_en": ["Pit formed by volcanic eruption or meteor impact.", "Found abundantly on the moon's surface.", "Studied in earth sciences."]
+    },
+    {
+      "word_tr": "FOBİ",
+      "word_en": "PHOBIA",
+      "clues_tr": ["Mantıksız ve aşırı korku hissedilmesi.", "Belirli bir nesne veya durumla tetiklenir.", "Psikolojik tedavi gerektirebilir."],
+      "clues_en": ["Irrational and excessive fear.", "Triggered by a specific object or situation.", "May require psychological treatment."]
+    },
+    {
+      "word_tr": "ÇAMAŞIR",
+      "word_en": "LAUNDRY",
+      "clues_tr": ["Kirli giysiler ve kumaşlar bütünü.", "Yıkanmak için toplanır.", "Çamaşır makinesi ile temizlenir."],
+      "clues_en": ["Dirty clothes and fabrics.", "Collected for washing.", "Cleaned with a washing machine."]
+    },
+    {
+      "word_tr": "BAYKUŞ",
+      "word_en": "OWL",
+      "clues_tr": ["Gece avlanan yırtıcı kuş.", "Büyük gözleri vardır.", "Uğursuzluk simgesi olarak da bilinir."],
+      "clues_en": ["Nocturnal predatory bird.", "Has large eyes.", "Also known as a symbol of bad luck."]
+    },
+    {
+      "word_tr": "HUŞ",
+      "word_en": "BIRCH",
+      "clues_tr": ["İnce kabuklu ve beyaz gövdeli ağaç.", "Soğuk iklimlerde yetişir.", "Mobilya yapımında kullanılır."],
+      "clues_en": ["Tree with thin bark and white trunk.", "Grows in cold climates.", "Used in furniture making."]
+    },
+    {
+      "word_tr": "MİÇO",
+      "word_en": "CABINBOY",
+      "clues_tr": ["Gemide çalışan genç denizci.", "Kaptanın yardımcısıdır.", "Geminin bakımı ve temizliğiyle ilgilenir."],
+      "clues_en": ["Young sailor working on a ship.", "Assistant to the captain.", "Responsible for ship maintenance and cleaning."]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "HALAT",
+      "word_en": "ROPE",
+      "clues_tr": ["Kalın ve güçlü bağ.", "Çeşitli malzemelerden yapılır.", "Gemilerde ve inşaatlarda kullanılır."],
+      "clues_en": ["Thick and strong tie.", "Made from various materials.", "Used in ships and construction."]
+    },
+    {
+      "word_tr": "MAKİ",
+      "word_en": "MAQUIS",
+      "clues_tr": ["Akdeniz ikliminde yetişen bitki örtüsü.", "Çalılık ve bodur ağaçlardan oluşur.", "Yangınlara karşı dirençlidir."],
+      "clues_en": ["Vegetation growing in the Mediterranean climate.", "Consists of shrubs and dwarf trees.", "Resistant to fires."]
+    },
+    {
+      "word_tr": "GÜVERTE",
+      "word_en": "DECK",
+      "clues_tr": ["Geminin üst açık alanı.", "Yolcuların gezdiği ve oturduğu yer.", "Güneşlenmek için kullanılır."],
+      "clues_en": ["Open upper area of a ship.", "Place where passengers walk and sit.", "Used for sunbathing."]
+    },
+    {
+      "word_tr": "PENGUEN",
+      "word_en": "PENGUIN",
+      "clues_tr": ["Uçamayan deniz kuşu.", "Antarktika'da yaşar.", "Siyah beyaz tüylere sahiptir."],
+      "clues_en": ["Flightless sea bird.", "Lives in Antarctica.", "Has black and white feathers."]
+    },
+    {
+      "word_tr": "TROMPET",
+      "word_en": "TRUMPET",
+      "clues_tr": ["Üflemeli bir müzik aleti.", "Genellikle bakırdan yapılır.", "Caz ve klasik müzikte kullanılır."],
+      "clues_en": ["Brass musical instrument.", "Usually made of brass.", "Used in jazz and classical music."]
+    },
+    {
+      "word_tr": "GECE",
+      "word_en": "NIGHT",
+      "clues_tr": ["Gün batımından sonra karanlık dönem.", "Uyuma zamanı.", "Gecenin sessizliği."],
+      "clues_en": ["Dark period after sunset.", "Time for sleeping.", "Silence of the night."]
+    },
+    {
+      "word_tr": "UÇKUR",
+      "word_en": "DRAWSTRING",
+      "clues_tr": ["Pantolon veya şortun bel kısmını sıkılaştıran ip.", "Kumaşın içine geçirilir.", "Sıkılaştırmak için çekilir."],
+      "clues_en": ["Cord that tightens the waist of pants or shorts.", "Inserted into the fabric.", "Pulled to tighten."]
+    },
+    {
+      "word_tr": "TALAN",
+      "word_en": "PILLAGE",
+      "clues_tr": ["Yağmalama ve talan etme eylemi.", "Savaş veya isyan sırasında gerçekleşir.", "Zarar ve yıkım getirir."],
+      "clues_en": ["Act of looting and plundering.", "Occurs during war or rebellion.", "Brings destruction and damage."]
+    },
+    {
+      "word_tr": "KRAMP",
+      "word_en": "CRAMP",
+      "clues_tr": ["Kasların aniden ve ağrılı şekilde kasılması.", "Genellikle egzersiz veya dehidrasyon sonucu oluşur.", "Kas gevşetici ile tedavi edilir."],
+      "clues_en": ["Sudden and painful muscle contraction.", "Usually occurs due to exercise or dehydration.", "Treated with muscle relaxants."]
+    },
+    {
+      "word_tr": "AÇELYA",
+      "word_en": "AZALEA",
+      "clues_tr": ["Renkli çiçekleri olan bitki.", "Bahçe ve süs bitkisi olarak yetiştirilir.", "İlkbaharda çiçek açar."],
+      "clues_en": ["Plant with colorful flowers.", "Grown as a garden and ornamental plant.", "Blooms in spring."]
+    },
+    {
+      "word_tr": "BAŞROL",
+      "word_en": "LEADROLE",
+      "clues_tr": ["Bir tiyatro veya filmdeki en önemli rol.", "Baş karakteri canlandırır.", "Oyunculuk kariyerinde önemli bir adımdır."],
+      "clues_en": ["Most important role in a play or movie.", "Portrays the main character.", "Important step in an acting career."]
+    },
+    {
+      "word_tr": "POSEİDON",
+      "word_en": "POSEIDON",
+      "clues_tr": ["Yunan mitolojisinde deniz tanrısı.", "Üç dişli mızrağı vardır.", "Denizlerin ve depremlerin kontrolünü elinde tutar."],
+      "clues_en": ["Sea god in Greek mythology.", "Has a trident.", "Holds control over the seas and earthquakes."]
+    },
+    {
+      "word_tr": "GALAKSİ",
+      "word_en": "GALAXY",
+      "clues_tr": ["Yıldızlar, gaz ve toz bulutlarından oluşan büyük sistem.", "Samanyolu bunlardan biridir.", "Evrenin temel yapı taşlarındandır."],
+      "clues_en": ["Large system consisting of stars, gas, and dust clouds.", "Milky Way is one of them.", "Fundamental building blocks of the universe."]
+    },
+    {
+      "word_tr": "İSKELET",
+      "word_en": "SKELETON",
+      "clues_tr": ["Bir canlının kemik yapısı.", "İnsan ve hayvan vücudunu destekler.", "Müze ve laboratuvarlarda incelenir."],
+      "clues_en": ["Bone structure of a living being.", "Supports the body of humans and animals.", "Studied in museums and laboratories."]
+    },
+    {
+      "word_tr": "NEPTÜN",
+      "word_en": "NEPTUNE",
+      "clues_tr": ["Güneş sisteminin sekizinci gezegeni.", "Mavi renkli ve gaz devidir.", "Roma mitolojisinde deniz tanrısı ile adlandırılmıştır."],
+      "clues_en": ["Eighth planet in the solar system.", "Blue-colored and gas giant.", "Named after the sea god in Roman mythology."]
+    }
+  ]
+}

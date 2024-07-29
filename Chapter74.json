@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "ÇİFTÇİ",
+      "word_en": "FARMER",
+      "clues_tr": ["Tarım yapan ve hayvancılıkla uğraşan kişi.", "Toprak ve çiftlik işleri ile ilgilenir.", "Sebze, meyve ve tahıl yetiştirir."],
+      "clues_en": ["Person engaged in agriculture and animal husbandry.", "Deals with land and farm work.", "Grows vegetables, fruits, and grains."]
+    },
+    {
+      "word_tr": "TUZLU",
+      "word_en": "SALTY",
+      "clues_tr": ["Tuz içeren veya tuz tadında olan.", "Çoğunlukla atıştırmalık ve yemeklerde bulunur.", "Tatlı olmayan lezzet."],
+      "clues_en": ["Containing or tasting like salt.", "Mostly found in snacks and dishes.", "Non-sweet flavor."]
+    },
+    {
+      "word_tr": "ORTAK",
+      "word_en": "PARTNER",
+      "clues_tr": ["Bir iş veya projede birlikte çalışan kişi.", "İşbirliği ve ortaklık içinde.", "Ortak hedefler ve sorumluluklar paylaşılır."],
+      "clues_en": ["Person working together in a business or project.", "In cooperation and partnership.", "Shared goals and responsibilities."]
+    },
+    {
+      "word_tr": "HOPARLÖR",
+      "word_en": "SPEAKER",
+      "clues_tr": ["Ses dalgalarını yayarak ses çıkaran cihaz.", "Müzik ve ses sistemlerinde kullanılır.", "Çeşitli boyut ve şekillerde olabilir."],
+      "clues_en": ["Device that produces sound by spreading sound waves.", "Used in music and sound systems.", "Can be in various sizes and shapes."]
+    },
+    {
+      "word_tr": "KLOZET",
+      "word_en": "TOILET",
+      "clues_tr": ["Tuvaletlerde kullanılan oturmalı klozet.", "Sifon sistemi ile temizlenir.", "Banyoların vazgeçilmez parçasıdır."],
+      "clues_en": ["Seated toilet used in bathrooms.", "Cleaned with a flush system.", "Essential part of bathrooms."]
+    },
+    {
+      "word_tr": "KAVAL",
+      "word_en": "FLUTE",
+      "clues_tr": ["Üflemeli bir müzik aleti.", "Ahşap veya metalden yapılır.", "Nefesle çalınır."],
+      "clues_en": ["Wind musical instrument.", "Made of wood or metal.", "Played with breath."]
+    },
+    {
+      "word_tr": "HABER",
+      "word_en": "NEWS",
+      "clues_tr": ["Güncel olaylar ve gelişmeler hakkında bilgi.", "Gazete, televizyon ve internet üzerinden alınır.", "Toplumu bilgilendirmek amacıyla paylaşılır."],
+      "clues_en": ["Information about current events and developments.", "Received via newspaper, television, and internet.", "Shared to inform the public."]
+    },
+    {
+      "word_tr": "BİLDİRİM",
+      "word_en": "NOTIFICATION",
+      "clues_tr": ["Bir olay veya durum hakkında bilgi veren mesaj.", "Telefon ve bilgisayarda görünür.", "Uygulama ve hizmetlerden gelen uyarılar."],
+      "clues_en": ["Message providing information about an event or situation.", "Appears on phone and computer.", "Alerts from applications and services."]
+    },
+    {
+      "word_tr": "ÇANTA",
+      "word_en": "BAG",
+      "clues_tr": ["Eşyaları taşımak için kullanılan aksesuar.", "Omuzda veya elde taşınabilir.", "Çeşitli boyut ve tasarımlarda olabilir."],
+      "clues_en": ["Accessory used to carry items.", "Can be carried on the shoulder or by hand.", "Available in various sizes and designs."]
+    },
+    {
+      "word_tr": "AYAKKABI",
+      "word_en": "SHOE",
+      "clues_tr": ["Ayakları korumak ve desteklemek için giyilen.", "Günlük ve özel durumlar için farklı çeşitleri vardır.", "Deri, kumaş veya sentetik malzemelerden yapılır."],
+      "clues_en": ["Worn to protect and support feet.", "Different types for daily and special occasions.", "Made of leather, fabric, or synthetic materials."]
+    },
+    {
+      "word_tr": "BANLİYÖ",
+      "word_en": "SUBURB",
+      "clues_tr": ["Şehir dışında yer alan yerleşim alanı.", "Genellikle konut ağırlıklıdır.", "Şehir merkezine yakın olabilir."],
+      "clues_en": ["Residential area located outside the city.", "Usually residential-focused.", "Can be close to the city center."]
+    },
+    {
+      "word_tr": "TREN",
+      "word_en": "TRAIN",
+      "clues_tr": ["Demir yolu üzerinde giden uzun ulaşım aracı.", "Yolcu ve yük taşımacılığında kullanılır.", "Vagonlardan oluşur."],
+      "clues_en": ["Long transportation vehicle running on railways.", "Used in passenger and freight transport.", "Consists of wagons."]
+    },
+    {
+      "word_tr": "BEKÇİ",
+      "word_en": "GUARD",
+      "clues_tr": ["Güvenliği sağlamakla görevli kişi.", "Gece ve gündüz çalışabilir.", "Özel ve kamu alanlarında bulunur."],
+      "clues_en": ["Person responsible for ensuring security.", "Can work day and night.", "Found in private and public areas."]
+    },
+    {
+      "word_tr": "STATÜ",
+      "word_en": "STATUS",
+      "clues_tr": ["Bir kişinin veya şeyin toplumsal konumu.", "Sosyal ve ekonomik durumu ifade eder.", "Toplum içindeki yerini belirler."],
+      "clues_en": ["Social position of a person or thing.", "Expresses social and economic situation.", "Determines its place in society."]
+    },
+    {
+      "word_tr": "JETSKİ",
+      "word_en": "JET SKI",
+      "clues_tr": ["Suda hızla hareket eden motorlu araç.", "Eğlence ve spor amaçlı kullanılır.", "Deniz ve göllerde yaygındır."],
+      "clues_en": ["Motorized vehicle moving rapidly on water.", "Used for recreation and sports.", "Common in seas and lakes."]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "words": [
+    {
+      "word_tr": "ÇEŞME",
+      "word_en": "FOUNTAIN",
+      "clues_tr": ["Su akıtan ve dekoratif amaçlı kullanılan yapı.", "Park ve bahçelerde bulunur.", "Serinleme ve estetik amaçlı kullanılır."],
+      "clues_en": ["Structure used for flowing water and decorative purposes.", "Found in parks and gardens.", "Used for cooling and aesthetics."]
+    },
+    {
+      "word_tr": "KAVAK",
+      "word_en": "POPLAR",
+      "clues_tr": ["Hızlı büyüyen uzun ağaç türü.", "Odun ve kağıt üretiminde kullanılır.", "Yaprakları geniş ve ovaldir."],
+      "clues_en": ["Fast-growing tall tree species.", "Used in wood and paper production.", "Has broad and oval leaves."]
+    },
+    {
+      "word_tr": "PALAZ",
+      "word_en": "DUCKLING",
+      "clues_tr": ["Genç ve henüz olgunlaşmamış ördek.", "Sarı tüyleri vardır.", "Tatlı ve sevimli olarak görülür."],
+      "clues_en": ["Young and not yet mature duck.", "Has yellow feathers.", "Seen as cute and adorable."]
+    },
+    {
+      "word_tr": "YAPRAK",
+      "word_en": "LEAF",
+      "clues_tr": ["Bitkilerin fotosentez yaptığı yeşil organ.", "Ağaç ve çiçeklerde bulunur.", "Sonbaharda dökülür."],
+      "clues_en": ["Green organ of plants for photosynthesis.", "Found in trees and flowers.", "Falls in autumn."]
+    },
+    {
+      "word_tr": "VAPUR",
+      "word_en": "STEAMER",
+      "clues_tr": ["Deniz ulaşımında kullanılan büyük gemi.", "Buhar gücü ile çalışır.", "Yolcu ve yük taşımacılığında kullanılır."],
+      "clues_en": ["Large ship used in sea transportation.", "Operates with steam power.", "Used for passenger and freight transport."]
+    },
+    {
+      "word_tr": "TİBET",
+      "word_en": "TIBET",
+      "clues_tr": ["Asya'da bir bölge.", "Yüksek rakımlı ve dağlık bir yerdir.", "Budizm'in önemli merkezlerinden biridir."],
+      "clues_en": ["Region in Asia.", "High-altitude and mountainous place.", "One of the important centers of Buddhism."]
+    },
+    {
+      "word_tr": "ROMAN",
+      "word_en": "NOVEL",
+      "clues_tr": ["Kurgusal ve uzun anlatı türü.", "Kitap olarak yayımlanır.", "Farklı temalar ve karakterler içerir."],
+      "clues_en": ["Fictional and long narrative form.", "Published as a book.", "Includes different themes and characters."]
+    },
+    {
+      "word_tr": "MADALYON",
+      "word_en": "MEDALLION",
+      "clues_tr": ["Madalyaya benzer takı veya ödül.", "Genellikle boyunda taşınır.", "Özel anlar ve başarılar için verilir."],
+      "clues_en": ["Jewelry or award similar to a medal.", "Usually worn around the neck.", "Given for special moments and achievements."]
+    },
+    {
+      "word_tr": "UYGARLIK",
+      "word_en": "CIVILIZATION",
+      "clues_tr": ["Gelişmiş toplum ve kültürel yapılar.", "Tarih boyunca çeşitli medeniyetler oluşmuştur.", "Bilim, sanat ve teknoloji ile karakterize edilir."],
+      "clues_en": ["Developed society and cultural structures.", "Various civilizations have formed throughout history.", "Characterized by science, art, and technology."]
+    },
+    {
+      "word_tr": "LİSTE",
+      "word_en": "LIST",
+      "clues_tr": ["Belirli bir sıralama ile yazılan maddeler bütünü.", "Alışveriş, görev veya isimler içerebilir.", "Organizasyon ve düzen sağlamak için kullanılır."],
+      "clues_en": ["Set of items written in a specific order.", "Can include shopping, tasks, or names.", "Used for organization and order."]
+    },
+    {
+      "word_tr": "MÜZİK",
+      "word_en": "MUSIC",
+      "clues_tr": ["Seslerin ritmik ve melodik düzenlenmesi.", "Enstrüman ve vokallerle icra edilir.", "Kültürel ve sanatsal bir ifade biçimidir."],
+      "clues_en": ["Rhythmic and melodic arrangement of sounds.", "Performed with instruments and vocals.", "Form of cultural and artistic expression."]
+    },
+    {
+      "word_tr": "OTOBÜS",
+      "word_en": "BUS",
+      "clues_tr": ["Yolcu taşımak için kullanılan büyük araç.", "Şehir içi ve şehirlerarası ulaşımda kullanılır.", "Genellikle belirli bir rotada hareket eder."],
+      "clues_en": ["Large vehicle used for transporting passengers.", "Used in urban and intercity transport.", "Usually moves on a specific route."]
+    },
+    {
+      "word_tr": "ARTEMİS",
+      "word_en": "ARTEMIS",
+      "clues_tr": ["Yunan mitolojisinde avcılık ve doğa tanrıçası.", "Ay ve okçulukla ilişkilidir.", "Apollon'un ikiz kardeşidir."],
+      "clues_en": ["Goddess of hunting and nature in Greek mythology.", "Associated with the moon and archery.", "Twin sister of Apollo."]
+    },
+    {
+      "word_tr": "EKRAN",
+      "word_en": "SCREEN",
+      "clues_tr": ["Görüntülerin gösterildiği yüzey.", "Bilgisayar, televizyon ve telefonlarda bulunur.", "Film ve video izlemek için kullanılır."],
+      "clues_en": ["Surface where images are displayed.", "Found on computers, televisions, and phones.", "Used for watching movies and videos."]
+    },
+    {
+      "word_tr": "PAKET",
+      "word_en": "PACKAGE",
+      "clues_tr": ["Eşyaların veya ürünlerin sarıldığı ve korunduğu ambalaj.", "Posta ve kargo ile gönderilir.", "Farklı boyut ve şekillerde olabilir."],
+      "clues_en": ["Wrapping and protective packaging of items or products.", "Sent via mail and cargo.", "Can be in various sizes and shapes."]
+    }
+  ]
+}
